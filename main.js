@@ -37,7 +37,7 @@ define(function (require, exports, module) {
   AppInit.appReady(function () {
     var viewMenu = Menus.getMenu(Menus.AppMenuBar.VIEW_MENU);
     viewMenu.addMenuItem(DO_ZOT);
-    ExtensionUtils.loadStyleSheet(module, "css/qda.css");
+    ExtensionUtils.loadStyleSheet(module, "css/zot-cli.css");
     ExtensionUtils.loadStyleSheet(module, "lib/jqtree/jqtree.css");
     panel = PanelManager.createBottomPanel(DO_ZOT, $(panelHtml), 300);
     $("#zotero-panel-close").click(function () {

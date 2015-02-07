@@ -1,5 +1,4 @@
-.zotero-panel{
-}
+.zotero-panel {}
 
 #tree-holder {
   background: lightgray;
@@ -13,20 +12,28 @@
   border-radius: 3px;
 }
 
-#tree {
-}
-
-#zotero {
+#zot-items {
+  background: lightgray;
   padding: 10px;
+  border: 1px solid #ccc;
   float: left;
-  margin: 30px 0 0px 20px;
-  width: 540px;
+  margin: 40px 0 10px 10px;
+  width: 400px;
+  overflow: scroll;
+  position: relative;
+  border-radius: 3px;
 }
 
-.snippet-text {
-  color: green;
-  cursor: pointer;
+#tree {}
+
+#zot-menu {
+  position: fixed;
+  width: 100%;
+  height: 20px;
+  background: #999;
+  border-bottom: 1px solid #ccc;
   padding: 5px;
+  z-index: 10;
 }
 
 .filename {
@@ -92,21 +99,6 @@ ul.jqtree-tree li.jqtree-selected > .jqtree-element:hover {
 .tag-group {
   margin-left: 0 !important;
 }
-.tag-count {
-  margin-left: 5px;
-  color: #666;
-  vertical-align: middle;
-}
-
-#qda-menu {
-  position: fixed;
-  width: 100%;
-  height: 20px;
-  background: #999;
-  border-bottom: 1px solid #ccc;
-  padding: 5px;
-  z-index: 10;
-}
 
 #zotero-panel-close {
   cursor: pointer;
@@ -115,7 +107,6 @@ ul.jqtree-tree li.jqtree-selected > .jqtree-element:hover {
   color: #fff;
   right: 40px;
 }
-
 
 #add-node-button {
   position: fixed;
@@ -127,4 +118,18 @@ ul.jqtree-tree li.jqtree-selected > .jqtree-element:hover {
 
 .jqtree-title {
   color: #444 !important;
+}
+
+.jqtree-element {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+#zotero-panel .jqtree-tree .jqtree-title {
+  margin-left: 1em !important;
+}
+
+#zotero-panel .jqtree-tree .jqtree-title.jqtree-title-folder {
+  margin-left: 0 !important;
 }
