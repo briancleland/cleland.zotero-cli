@@ -39,6 +39,7 @@ define(function (require, exports, module) {
     viewMenu.addMenuItem(DO_ZOT);
     ExtensionUtils.loadStyleSheet(module, "css/zot-cli.css");
     ExtensionUtils.loadStyleSheet(module, "lib/jqtree/jqtree.css");
+    ExtensionUtils.loadStyleSheet(module, "css/font-awesome/css/font-awesome.min.css");
     panel = PanelManager.createBottomPanel(DO_ZOT, $(panelHtml), 300);
     $("#zotero-panel-close").click(function () {
       panel.hide();
