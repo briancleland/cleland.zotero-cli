@@ -6,7 +6,7 @@
   border: 1px solid #ccc;
   float: left;
   margin: 40px 0 10px 10px;
-  width: 280px;
+  width: calc(33% - 40px);
   overflow: scroll;
   position: relative;
   border-radius: 3px;
@@ -18,7 +18,7 @@
   border: 1px solid #ccc;
   float: left;
   margin: 40px 0 10px 10px;
-  width: 400px;
+  width: calc(66% - 40px);
   overflow: scroll;
   position: relative;
   border-radius: 3px;
@@ -118,7 +118,7 @@ ul.jqtree-tree li.jqtree-selected > .jqtree-element:hover {
 }
 
 #zotero-panel .jqtree-tree .jqtree-title {
-  margin-left: 1em !important;
+  margin-left: 14px !important;
 }
 
 #zotero-panel .jqtree-tree .jqtree-title.jqtree-title-folder {
