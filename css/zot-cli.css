@@ -1,6 +1,6 @@
-.zotero-panel {}
+#zotero-panel {}
 
-#tree-holder {
+#zot-collections {
   background: lightgray;
   padding: 10px;
   border: 1px solid #ccc;
@@ -24,8 +24,6 @@
   border-radius: 3px;
 }
 
-#tree {}
-
 #zot-menu {
   position: fixed;
   width: 100%;
@@ -40,12 +38,6 @@
   overflow: scroll;
   user-select: all;
   -webkit-user-select: all;
-}
-
-.snippet-text.selected {
-  background: lightgray;
-  border-radius: 4px;
-  color: darkgreen;
 }
 
 ul .jqtree-element {
@@ -71,16 +63,6 @@ ul.jqtree-tree li.jqtree-selected > .jqtree-element:hover {
 
 #contextMenu.dropdown-menu {
   min-width: 0 !important;
-}
-
-.folder-icon {
-  background-image: url("./folder_icon.png");
-  width: 15px;
-  height: 15px !important;
-  background-size: 15px;
-  display: inline-block;
-  margin-bottom: -4px;
-  margin-right: 5px;
 }
 
 .jqtree-toggler.jqtree-closed {
