@@ -69,10 +69,6 @@ ul.jqtree-tree li.jqtree-selected > .jqtree-element:hover {
   font-size: 74%;
 }
 
-.tag-group {
-  margin-left: 0 !important;
-}
-
 #zotero-panel-close {
   cursor: pointer;
   position: fixed;
@@ -88,6 +84,8 @@ ul.jqtree-tree li.jqtree-selected > .jqtree-element:hover {
   padding: 2px 6px;
   border-radius: 3px;
 }
+
+/*********** jqTree stuff ************/
 
 .jqtree-title {
   color: #444 !important;
