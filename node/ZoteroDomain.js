@@ -26,49 +26,58 @@ maxerr: 50, node: true */
 /*global */
 
 (function () {
-    "use strict";
+  "use strict";
 
-    var fs = require("fs");
-    var sql = require("sql.js");
+  var fs = require("fs");
+  var sql = require("sql.js");
 
-    /**
-     * @private
-     * Handler function for the simple.getMemory command.
-     * @param {boolean} total If true, return total memory; if false, return free memory only.
-     * @return {number} The amount of memory.
-     */
-    function cmdGetFile(path) {
-        var filebuffer = fs.readFileSync(path);
-        var db = new sql.Database(filebuffer);
-        var res = db.exec("SELECT *  FROM collections");
-        console.log(res[0]);
-        return "hello";
-      }
+  /**
+   * @private
+   * Handler function for the simple.getMemory command.
+   * @param {boolean} total If true, return total memory; if false, return free memory only.
+   * @return {number} The amount of memory.
+   */
+  function cmdGetData(path) {
+    var filebuffer = fs.readFileSync(path);
+    var db = new sql.Database(filebuffer);
+    var collections = db.exec("SELECT *  FROM collections")[0];
+    var items = db.exec("SELECT *  FROM items")[0];
+    var itemNotes = db.exec("SELECT *  FROM itemNotes")[0];
+    var itemTypes = db.exec("SELECT *  FROM itemTypes")[0];
+    var fulltextItems = db.exec("SELECT *  FROM fulltextItems")[0];
+    return {
+      collections: collections,
+      items: items,
+      itemNotes: itemNotes,
+      itemTypes: itemTypes,
+      fulltextItems: fulltextItems
+    };
+  }
 
   /**
    * Initializes the test domain with several test commands.
    * @param {DomainManager} domainManager The DomainManager for the server
    */
   function init(domainManager) {
-    if (!domainManager.hasDomain("fs")) {
-      domainManager.registerDomain("fs", {
+    if (!domainManager.hasDomain("zotero")) {
+      domainManager.registerDomain("zotero", {
         major: 0,
         minor: 1
       });
     }
     domainManager.registerCommand(
-      "fs", // domain name
-      "getFile", // command name
-      cmdGetFile, // command handler function
+      "zotero", // domain name
+      "getData", // command name
+      cmdGetData, // command handler function
       false, // this command is synchronous in Node
-      "Gets the file contents using fs.readFileSync", [{
+      "Gets the zotero db contents using fs.readFileSync", [{
         name: "path", // parameters
         type: "string",
         description: "Full path to the file"
       }], [{
         name: "contents", // return values
         type: "data",
-        description: "file data"
+        description: "zotero data"
       }]
     );
   }

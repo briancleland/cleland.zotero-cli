@@ -22,7 +22,7 @@ define(function (require, exports, module) {
   var panel;
 
   //  var simpleDomain = new NodeDomain("simple", ExtensionUtils.getModulePath(module, "node/SimpleDomain"));
-  var fsDomain = new NodeDomain("fs", ExtensionUtils.getModulePath(module, "node/FsDomain"));
+  var zoteroDomain = new NodeDomain("zotero", ExtensionUtils.getModulePath(module, "node/ZoteroDomain"));
 
   require("lib/qdaSimpleMode");
   require("lib/jqtree/tree.jquery");
@@ -41,65 +41,62 @@ define(function (require, exports, module) {
 
   ////////////////////////////////////////////////////////////////////////////////////////////////
 
-  // Helper function that runs the simple.getMemory command and logs the result to the console
-  //  function logMemory() {
-  //    simpleDomain.exec("getMemory", false)
-  //      .done(function (memory) {
-  //        console.log(
-  //          "[brackets-simple-node] Memory: %d bytes free",
-  //          memory
-  //        );
-  //      }).fail(function (err) {
-  //        console.error("[brackets-simple-node] failed to run simple.getMemory", err);
-  //      });
-  //  }
+  function collections2tree(collections) {
+    var root = [];
+    console.log(collections);
+    for (var id in collections) {
+      if (collections.hasOwnProperty(id)) {
+        var collection = collections[id];
+        var parent = collections[collection.parentCollectionID];
+        if (parent) {
+          parent.children.push(collection);
+          console.log("children");
+          console.log(parent.children);
+          console.log("parent");
+          console.log(parent);
+        } else {
+          root.push(collection);
+        }
+      }
+    }
+    return root;
+  }
 
   ////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-  function ab2str(buf) {
-    return String.fromCharCode.apply(null, new Uint16Array(buf));
-  }
-
-  function str2ab(str) {
-    var buf = new ArrayBuffer(str.length * 2); // 2 bytes for each char
-    var bufView = new Uint16Array(buf);
-    for (var i = 0, strLen = str.length; i < strLen; i++) {
-      bufView[i] = str.charCodeAt(i);
+  function table2hash(table) {
+    var hash = {};
+    //    var keyField;
+    var columns = table.columns;
+    var rows = table.values;
+    for (var i = 0; i < rows.length; i++) { // for each row
+      var row = table.values[i];
+      var id = row[0];
+      hash[id] = {}
+      for (var j = 0; j < columns.length; j++) { // for each column
+        var columnName = columns[j];
+        hash[id][columnName] = row[j]
+      }
+      hash[id].children = [];
     }
-    return buf;
+    return hash;
   }
+
+  ////////////////////////////////////////////////////////////////////////////////////////////////
 
   // Helper function that runs the fs.getFile command and logs the result to the console
-  function logFile() {
+  function getZotInfo() {
     var path = "/Users/briancleland/Downloads/zotero.sqlite"
-    fsDomain.exec("getFile", path)
-      .done(function (res) {
-        //        console.log(ab2str(data));
-        // var res = db.exec("SELECT * FROM table1");
-        //        console.log(res);
+    zoteroDomain.exec("getData", path)
+      .done(function (zotInfo) {
         console.log("FILE READ FROM NODE!!");
-        console.log(res);
-//        var db = new SQL.Database(res.filebuffer);
-//        var info = db.exec("SELECT * FROM collections");
-//        console.log(info);
+        console.log(zotInfo);
+        var collectionsHash = table2hash(zotInfo.collections);
+        console.log(collectionsHash);
+        console.log(collections2tree(collectionsHash));
       }).fail(function (err) {
         console.error("FILE READ FAILED!!", err);
       });
-  }
-
-  // Helper function that runs the fs.getFile command and logs the result to the console
-  function logFile2() {
-    var path = "/Users/briancleland/Downloads/briantest"
-    var file = FileSystem.getFileForPath(path);
-    file.read(function (err, string) {
-      console.log(err);
-      console.log(string);
-      //      var ab = str2ab(string);
-      //      var db = new SQL.Database(ab);   
-      //      var res = db.exec("SELECT name FROM sqlite_master");
-      //      console.log(res);
-    });
   }
 
   ////////////////////////////////////////////////////////////////////////////////////////////////
@@ -120,7 +117,7 @@ define(function (require, exports, module) {
     _tree.init();
     // Log memory when extension is loaded
     //    logMemory();
-    logFile();
+    getZotInfo();
   });
 
 });
