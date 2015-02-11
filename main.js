@@ -43,6 +43,7 @@ define(function (require, exports, module) {
 
   function collections2tree(collections) {
     var root = [];
+    collections = table2hash(collections);
     console.log(collections);
     for (var id in collections) {
       if (collections.hasOwnProperty(id)) {
@@ -66,7 +67,6 @@ define(function (require, exports, module) {
 
   function table2hash(table) {
     var hash = {};
-    //    var keyField;
     var columns = table.columns;
     var rows = table.values;
     for (var i = 0; i < rows.length; i++) { // for each row
@@ -91,9 +91,7 @@ define(function (require, exports, module) {
       .done(function (zotInfo) {
         console.log("FILE READ FROM NODE!!");
         console.log(zotInfo);
-        var collectionsHash = table2hash(zotInfo.collections);
-        console.log(collectionsHash);
-        console.log(collections2tree(collectionsHash));
+        console.log(collections2tree(zotInfo.collections));
       }).fail(function (err) {
         console.error("FILE READ FAILED!!", err);
       });
