@@ -48,6 +48,7 @@ maxerr: 50, node: true */
     var itemData = db.exec("SELECT *  FROM itemData")[0];
     var fields = db.exec("SELECT *  FROM fields")[0];
     var itemDataValues = db.exec("SELECT *  FROM itemDataValues")[0];
+    var collectionItems = db.exec("SELECT *  FROM collectionItems")[0];
     return {
       collections: collections,
       items: items,
@@ -56,7 +57,8 @@ maxerr: 50, node: true */
       fulltextItems: fulltextItems,
       itemData: itemData,
       fields: fields,
-      itemDataValues: itemDataValues
+      itemDataValues: itemDataValues,
+      collectionItems: collectionItems
     };
   }
 
