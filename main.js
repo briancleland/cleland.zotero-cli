@@ -21,12 +21,11 @@ define(function (require, exports, module) {
   var panelHtml = require("text!html/panel.html");
   var panel;
 
-  //  var simpleDomain = new NodeDomain("simple", ExtensionUtils.getModulePath(module, "node/SimpleDomain"));
   var zoteroDomain = new NodeDomain("zotero", ExtensionUtils.getModulePath(module, "node/ZoteroDomain"));
 
-  require("lib/qdaSimpleMode");
+//  require("lib/qdaSimpleMode");
   require("lib/jqtree/tree.jquery");
-  var SQLjs = require('lib/sql/sql');
+//  var SQLjs = require('lib/sql/sql');
   var _tree = require("lib/tree");
 
   ////////////////////////////////////////////////////////////////////////////////////////////////
@@ -44,17 +43,16 @@ define(function (require, exports, module) {
   function collections2tree(collections) {
     var root = [];
     collections = table2hash(collections);
-    console.log(collections);
     for (var id in collections) {
       if (collections.hasOwnProperty(id)) {
         var collection = collections[id];
+        collection.label = collection.collectionName;
         var parent = collections[collection.parentCollectionID];
         if (parent) {
+          if (!parent.children) {
+            parent.children = []
+          }
           parent.children.push(collection);
-          console.log("children");
-          console.log(parent.children);
-          console.log("parent");
-          console.log(parent);
         } else {
           root.push(collection);
         }
@@ -77,7 +75,6 @@ define(function (require, exports, module) {
         var columnName = columns[j];
         hash[id][columnName] = row[j]
       }
-      hash[id].children = [];
     }
     return hash;
   }
@@ -87,7 +84,7 @@ define(function (require, exports, module) {
   // Helper function that runs the fs.getFile command and logs the result to the console
   function getZotInfo() {
     var path = "/Users/briancleland/Downloads/zotero.sqlite"
-    zoteroDomain.exec("getData", path)
+    zoteroDomain.exec("getTables", path)
       .done(function (zotInfo) {
         console.log("FILE READ FROM NODE!!");
         console.log(zotInfo);

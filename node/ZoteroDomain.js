@@ -37,7 +37,7 @@ maxerr: 50, node: true */
    * @param {boolean} total If true, return total memory; if false, return free memory only.
    * @return {number} The amount of memory.
    */
-  function cmdGetData(path) {
+  function cmdGetTables(path) {
     var filebuffer = fs.readFileSync(path);
     var db = new sql.Database(filebuffer);
     var collections = db.exec("SELECT *  FROM collections")[0];
@@ -67,8 +67,8 @@ maxerr: 50, node: true */
     }
     domainManager.registerCommand(
       "zotero", // domain name
-      "getData", // command name
-      cmdGetData, // command handler function
+      "getTables", // command name
+      cmdGetTables, // command handler function
       false, // this command is synchronous in Node
       "Gets the zotero db contents using fs.readFileSync", [{
         name: "path", // parameters
