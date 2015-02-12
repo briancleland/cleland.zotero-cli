@@ -21,11 +21,7 @@ define(function (require, exports, module) {
   var panelHtml = require("text!html/panel.html");
   var panel;
 
-  var zoteroDomain = new NodeDomain("zotero", ExtensionUtils.getModulePath(module, "node/ZoteroDomain"));
-
-//  require("lib/qdaSimpleMode");
   require("lib/jqtree/tree.jquery");
-//  var SQLjs = require('lib/sql/sql');
   var _tree = require("lib/tree");
 
   ////////////////////////////////////////////////////////////////////////////////////////////////
@@ -36,62 +32,6 @@ define(function (require, exports, module) {
     } else {
       panel.show();
     }
-  }
-
-  ////////////////////////////////////////////////////////////////////////////////////////////////
-
-  function collections2tree(collections) {
-    var root = [];
-    collections = table2hash(collections);
-    for (var id in collections) {
-      if (collections.hasOwnProperty(id)) {
-        var collection = collections[id];
-        collection.label = collection.collectionName;
-        var parent = collections[collection.parentCollectionID];
-        if (parent) {
-          if (!parent.children) {
-            parent.children = []
-          }
-          parent.children.push(collection);
-        } else {
-          root.push(collection);
-        }
-      }
-    }
-    return root;
-  }
-
-  ////////////////////////////////////////////////////////////////////////////////////////////////
-
-  function table2hash(table) {
-    var hash = {};
-    var columns = table.columns;
-    var rows = table.values;
-    for (var i = 0; i < rows.length; i++) { // for each row
-      var row = table.values[i];
-      var id = row[0];
-      hash[id] = {}
-      for (var j = 0; j < columns.length; j++) { // for each column
-        var columnName = columns[j];
-        hash[id][columnName] = row[j]
-      }
-    }
-    return hash;
-  }
-
-  ////////////////////////////////////////////////////////////////////////////////////////////////
-
-  // Helper function that runs the fs.getFile command and logs the result to the console
-  function getZotInfo() {
-    var path = "/Users/briancleland/Downloads/zotero.sqlite"
-    zoteroDomain.exec("getTables", path)
-      .done(function (zotInfo) {
-        console.log("FILE READ FROM NODE!!");
-        console.log(zotInfo);
-        console.log(collections2tree(zotInfo.collections));
-      }).fail(function (err) {
-        console.error("FILE READ FAILED!!", err);
-      });
   }
 
   ////////////////////////////////////////////////////////////////////////////////////////////////
@@ -110,9 +50,6 @@ define(function (require, exports, module) {
     });
     // Init jqtree
     _tree.init();
-    // Log memory when extension is loaded
-    //    logMemory();
-    getZotInfo();
   });
 
 });
