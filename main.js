@@ -21,7 +21,7 @@ define(function (require, exports, module) {
   var panelHtml = require("text!html/panel.html");
   var panel;
 
-  var _zotConverter = require("lib/zotConverter");
+  var _zotConnector = require("lib/zotConnector");
 
   ////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -48,7 +48,7 @@ define(function (require, exports, module) {
       panel.hide();
     });
     // get zotero data and load collections tree
-    _zotConverter.getData();
+    _zotConnector.getData();
   });
 
 });
