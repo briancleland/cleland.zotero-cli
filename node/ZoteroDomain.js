@@ -50,6 +50,7 @@ maxerr: 50, node: true */
     var fields = db.exec("SELECT *  FROM fields")[0];
     var itemDataValues = db.exec("SELECT *  FROM itemDataValues")[0];
     var collectionItems = db.exec("SELECT *  FROM collectionItems")[0];
+    var deletedItems = db.exec("SELECT *  FROM deletedItems")[0];
     return {
       collections: collections,
       items: items,
@@ -60,7 +61,8 @@ maxerr: 50, node: true */
       itemData: itemData,
       fields: fields,
       itemDataValues: itemDataValues,
-      collectionItems: collectionItems
+      collectionItems: collectionItems,
+      deletedItems: deletedItems
     };
   }
 
