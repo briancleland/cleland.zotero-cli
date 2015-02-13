@@ -21,8 +21,7 @@ define(function (require, exports, module) {
   var panelHtml = require("text!html/panel.html");
   var panel;
 
-  require("lib/jqtree/tree.jquery");
-  var _tree = require("lib/tree");
+  var _zotConverter = require("lib/zotConverter");
 
   ////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -48,8 +47,8 @@ define(function (require, exports, module) {
     $("#zotero-panel-close").click(function () {
       panel.hide();
     });
-    // Init jqtree
-    _tree.init();
+    // get zotero data and load collections tree
+    _zotConverter.getData();
   });
 
 });
