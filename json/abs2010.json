@@ -1,0 +1,4952 @@
+[
+  {
+    "Title":"Abacus",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0001-3072"
+  },
+  {
+    "Title":"Accounting and Business Research",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0001-4788"
+  },
+  {
+    "Title":"Accounting Review *",
+    "Rating":4,
+    "Field":"ACCOUNT",
+    "ISSN":"0001-4826"
+  },
+  {
+    "Title":"British Tax Review",
+    "Rating":2,
+    "Field":"ACCOUNT",
+    "ISSN":"0007-1870"
+  },
+  {
+    "Title":"International Journal of Accounting",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0020-7063"
+  },
+  {
+    "Title":"Journal of Accounting Research *",
+    "Rating":4,
+    "Field":"ACCOUNT",
+    "ISSN":"0021-8456"
+  },
+  {
+    "Title":"Journal of Accounting, Auditing and Finance",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0148-558X"
+  },
+  {
+    "Title":"Accounting Forum",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0155-9982"
+  },
+  {
+    "Title":"Journal of Accounting and Economics *",
+    "Rating":4,
+    "Field":"ACCOUNT",
+    "ISSN":"0165-4101"
+  },
+  {
+    "Title":"Financial Accountability and Management",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0267-4424"
+  },
+  {
+    "Title":"Managerial Auditing Journal",
+    "Rating":1,
+    "Field":"ACCOUNT",
+    "ISSN":"0268-6902"
+  },
+  {
+    "Title":"Auditing: A Journal of Practice and Theory",
+    "Rating":2,
+    "Field":"ACCOUNT",
+    "ISSN":"0278-0380"
+  },
+  {
+    "Title":"Journal of Accounting and Public Policy",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0278-4254"
+  },
+  {
+    "Title":"Accounting, Organizations and Society *",
+    "Rating":4,
+    "Field":"ACCOUNT",
+    "ISSN":"0361-3682"
+  },
+  {
+    "Title":"Journal of Accounting Literature",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0737-4607"
+  },
+  {
+    "Title":"Accounting and Finance",
+    "Rating":2,
+    "Field":"ACCOUNT",
+    "ISSN":"0810-5391"
+  },
+  {
+    "Title":"Contemporary Accounting Research",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0823-9150"
+  },
+  {
+    "Title":"Accounting Horizons",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0888-7993"
+  },
+  {
+    "Title":"British Accounting Review",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0890-8389"
+  },
+  {
+    "Title":"Advances in International Accounting",
+    "Rating":2,
+    "Field":"ACCOUNT",
+    "ISSN":"0897-3660"
+  },
+  {
+    "Title":"Accounting, Auditing and Accountability Journal",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0951-3574"
+  },
+  {
+    "Title":"European Accounting Review",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"0963-8180"
+  },
+  {
+    "Title":"Journal of Applied Accounting Research",
+    "Rating":2,
+    "Field":"ACCOUNT",
+    "ISSN":"0967-5426"
+  },
+  {
+    "Title":"Management Accounting Research",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"1044-5005"
+  },
+  {
+    "Title":"Critical Perspectives on Accounting",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"1045-2354"
+  },
+  {
+    "Title":"Journal of Management Accounting Research (AAA)",
+    "Rating":2,
+    "Field":"ACCOUNT",
+    "ISSN":"1049-2127"
+  },
+  {
+    "Title":"Behavioral Research in Accounting",
+    "Rating":3,
+    "Field":"ACCOUNT",
+    "ISSN":"1050-4753"
+  },
+  {
+    "Title":"Journal of International Accounting, Auditing and Taxation",
+    "Rating":2,
+    "Field":"ACCOUNT",
+    "ISSN":"1061-9518"
+  },
+  {
+    "Title":"International Journal of Auditing",
+    "Rating":2,
+    "Field":"ACCOUNT",
+    "ISSN":"1090-6738"
+  },
+  {
+    "Title":"Review of Accounting Studies",
+    "Rating":4,
+    "Field":"ACCOUNT",
+    "ISSN":"1380-6653"
+  },
+  {
+    "Title":"International Journal of Accounting Information Systems",
+    "Rating":1,
+    "Field":"ACCOUNT",
+    "ISSN":"1467-0895"
+  },
+  {
+    "Title":"Journal of International Accounting Research",
+    "Rating":2,
+    "Field":"ACCOUNT",
+    "ISSN":"1542-6297"
+  },
+  {
+    "Title":"International Journal of Accounting Auditing and Performance Evaluation (IJAAPE)",
+    "Rating":1,
+    "Field":"ACCOUNT",
+    "ISSN":"1740-8008"
+  },
+  {
+    "Title":"Accounting in Europe",
+    "Rating":1,
+    "Field":"ACCOUNT",
+    "ISSN":"1744-9480"
+  },
+  {
+    "Title":"Journal of Accounting and Organizational Change",
+    "Rating":1,
+    "Field":"ACCOUNT",
+    "ISSN":"1832-5912"
+  },
+  {
+    "Title":"Business History",
+    "Rating":4,
+    "Field":"BUS HIST",
+    "ISSN":"0007-6791"
+  },
+  {
+    "Title":"Business History Review",
+    "Rating":3,
+    "Field":"BUS HIST",
+    "ISSN":"0007-6805"
+  },
+  {
+    "Title":"Journal of Transport History",
+    "Rating":2,
+    "Field":"BUS HIST",
+    "ISSN":"0022-5266"
+  },
+  {
+    "Title":"Labor History",
+    "Rating":3,
+    "Field":"BUS HIST",
+    "ISSN":"0023-656X"
+  },
+  {
+    "Title":"Accounting Historians Journal",
+    "Rating":2,
+    "Field":"BUS HIST",
+    "ISSN":"0148-4184"
+  },
+  {
+    "Title":"Accounting, Business and Financial History",
+    "Rating":2,
+    "Field":"BUS HIST",
+    "ISSN":"0958-5206"
+  },
+  {
+    "Title":"European Journal of the History of Economic Thought",
+    "Rating":2,
+    "Field":"BUS HIST",
+    "ISSN":"0967-2567"
+  },
+  {
+    "Title":"Financial History Review",
+    "Rating":2,
+    "Field":"BUS HIST",
+    "ISSN":"0968-5650"
+  },
+  {
+    "Title":"Accounting History",
+    "Rating":2,
+    "Field":"BUS HIST",
+    "ISSN":"1032-3732"
+  },
+  {
+    "Title":"Journal of Management History",
+    "Rating":1,
+    "Field":"BUS HIST",
+    "ISSN":"1355-252X"
+  },
+  {
+    "Title":"European Review of Economic History",
+    "Rating":1,
+    "Field":"BUS HIST",
+    "ISSN":"1361-4916"
+  },
+  {
+    "Title":"Historical Studies in Industrial Relations",
+    "Rating":1,
+    "Field":"BUS HIST",
+    "ISSN":"1362-1572"
+  },
+  {
+    "Title":"Enterprise and Society",
+    "Rating":3,
+    "Field":"BUS HIST",
+    "ISSN":"1467-2227"
+  },
+  {
+    "Title":"Management and Organizational History",
+    "Rating":1,
+    "Field":"BUS HIST",
+    "ISSN":"1744-9359"
+  },
+  {
+    "Title":"American Economic Review *",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0002-8282"
+  },
+  {
+    "Title":"American Journal of Agricultural Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0002-9092"
+  },
+  {
+    "Title":"Applied Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0003-6846"
+  },
+  {
+    "Title":"Brookings Papers on Economic Activity",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0007-2303"
+  },
+  {
+    "Title":"Canadian Journal of Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0008-4085"
+  },
+  {
+    "Title":"Econometrica *",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0012-9682"
+  },
+  {
+    "Title":"Economic Development and Cultural Change",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0013-0079"
+  },
+  {
+    "Title":"Economic Journal",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0013-0133"
+  },
+  {
+    "Title":"Economic Record",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0013-0249"
+  },
+  {
+    "Title":"Economica",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0013-0427"
+  },
+  {
+    "Title":"Economics of Planning",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0013-0451"
+  },
+  {
+    "Title":"European Economic Review",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0014-2921"
+  },
+  {
+    "Title":"History of Political Economy",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0018-2702"
+  },
+  {
+    "Title":"Intereconomics",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0020-5346"
+  },
+  {
+    "Title":"International Economic Review",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0020-6598"
+  },
+  {
+    "Title":"Journal of Economic Issues",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0021-3624"
+  },
+  {
+    "Title":"Journal of Agricultural Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0021-857X"
+  },
+  {
+    "Title":"Journal of Developing Areas",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0022-037X"
+  },
+  {
+    "Title":"Journal of Economic Literature",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0022-0515"
+  },
+  {
+    "Title":"Journal of Economic Theory",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0022-0531"
+  },
+  {
+    "Title":"Journal of Human Resources",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0022-166X"
+  },
+  {
+    "Title":"Journal of Industrial Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0022-1821"
+  },
+  {
+    "Title":"Journal of International Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0022-1996"
+  },
+  {
+    "Title":"Journal of Political Economy *",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0022-3808"
+  },
+  {
+    "Title":"Kyklos",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0023-5962"
+  },
+  {
+    "Title":"Land Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0023-7639"
+  },
+  {
+    "Title":"National Institute Economic Review",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0027-9501"
+  },
+  {
+    "Title":"Oxford Economics Papers",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0030-7653"
+  },
+  {
+    "Title":"Quarterly Journal of Economics",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0033-5533"
+  },
+  {
+    "Title":"Review of Economic Studies",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0034-6527"
+  },
+  {
+    "Title":"Review of Economics and Statistics",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0034-6535"
+  },
+  {
+    "Title":"Review of Income and Wealth",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0034-6586"
+  },
+  {
+    "Title":"Scottish Journal of Political Economy",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0036-9292"
+  },
+  {
+    "Title":"South African Journal of Economics",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0038-2280"
+  },
+  {
+    "Title":"Southern Economic Journal",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0038-4038"
+  },
+  {
+    "Title":"Journal of Public Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0047-2727"
+  },
+  {
+    "Title":"Public Choice",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0048-5829"
+  },
+  {
+    "Title":"Journal of Urban Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0094-1190"
+  },
+  {
+    "Title":"Journal of Environmental Economics and Management",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0095-0696"
+  },
+  {
+    "Title":"Economic Inquiry",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0095-2583"
+  },
+  {
+    "Title":"Energy Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0140-9883"
+  },
+  {
+    "Title":"Fiscal Studies",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0143-5671"
+  },
+  {
+    "Title":"Managerial and Decision Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0143-6570"
+  },
+  {
+    "Title":"Journal of Economic Studies",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0144-3585"
+  },
+  {
+    "Title":"International Review of Law and Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0144-8188"
+  },
+  {
+    "Title":"Journal of Comparative Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0147-5967"
+  },
+  {
+    "Title":"Journal of Economics and Business",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0148-6195"
+  },
+  {
+    "Title":"Journal of Post Keynesian Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0160-3477"
+  },
+  {
+    "Title":"Journal of Macroeconomics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0164-0704"
+  },
+  {
+    "Title":"European Review of Agricultural Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0165-1587"
+  },
+  {
+    "Title":"Economics Letters",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0165-1765"
+  },
+  {
+    "Title":"Journal of Economic Dynamics and Control",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0165-1889"
+  },
+  {
+    "Title":"Journal of Economic Behavior and Organization",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0167-2681"
+  },
+  {
+    "Title":"Information Economics and Policy",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0167-6245"
+  },
+  {
+    "Title":"Journal of Health Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0167-6296"
+  },
+  {
+    "Title":"International Journal of Industrial Organization",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0167-7187"
+  },
+  {
+    "Title":"Agricultural Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0169-5150"
+  },
+  {
+    "Title":"Social Choice and Welfare",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0176-1714"
+  },
+  {
+    "Title":"European Journal of Political Economy",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0176-2680"
+  },
+  {
+    "Title":"World Bank Research Observer",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0257-3032"
+  },
+  {
+    "Title":"World Bank Economic Review",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0258-6770"
+  },
+  {
+    "Title":"Journal of Interdisciplinary Economics",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0260-1079"
+  },
+  {
+    "Title":"Economic Modelling",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0264-9993"
+  },
+  {
+    "Title":"Economics and Philosophy",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0266-2671"
+  },
+  {
+    "Title":"Economic Policy",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0266-4658"
+  },
+  {
+    "Title":"Econometric Theory",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0266-4666"
+  },
+  {
+    "Title":"Oxford Review of Economic Policy",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0266-903X"
+  },
+  {
+    "Title":"International Review of Applied Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0269-2171"
+  },
+  {
+    "Title":"Economics of Education Review",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0272-7757"
+  },
+  {
+    "Title":"Contributions to Political Economy",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0277-5921"
+  },
+  {
+    "Title":"Journal of Development Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0304-3878"
+  },
+  {
+    "Title":"Journal of Monetary Economics",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0304-3932"
+  },
+  {
+    "Title":"Journal of Mathematical Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0304-4068"
+  },
+  {
+    "Title":"Journal of Econometrics",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0304-4076"
+  },
+  {
+    "Title":"Oxford Bulletin of Economics and Statistics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0305-9049"
+  },
+  {
+    "Title":"International Journal of Social Economics",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0306-8293"
+  },
+  {
+    "Title":"Bulletin of Economic Research",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0307-3378"
+  },
+  {
+    "Title":"Cambridge Journal of Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0309-166X"
+  },
+  {
+    "Title":"Scandinavian Journal of Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0347-0520"
+  },
+  {
+    "Title":"Empirical Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0377-7332"
+  },
+  {
+    "Title":"World Economy",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0378-5920"
+  },
+  {
+    "Title":"Journal of Labor Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0734-306X"
+  },
+  {
+    "Title":"Journal of Business and Economic Statistics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0735-0015"
+  },
+  {
+    "Title":"RAND Journal of Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0741-6261"
+  },
+  {
+    "Title":"Econometric Reviews",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0747-4938"
+  },
+  {
+    "Title":"Journal of Applied Econometrics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0883-7252"
+  },
+  {
+    "Title":"Comparative Economic Studies",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0888-7233"
+  },
+  {
+    "Title":"Review of Industrial Organization",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0889-938X"
+  },
+  {
+    "Title":"Journal of Economic Perspectives",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0895-3309"
+  },
+  {
+    "Title":"Journal of Risk and Uncertainty",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0895-5646"
+  },
+  {
+    "Title":"Games and Economic Behavior",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"0899-8256"
+  },
+  {
+    "Title":"Ecological Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0921-8009"
+  },
+  {
+    "Title":"Journal of Regulatory Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0922-680X"
+  },
+  {
+    "Title":"Open Economies Review",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0923-7992"
+  },
+  {
+    "Title":"Environmental and Resource Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0924-6460"
+  },
+  {
+    "Title":"Labour Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0927-5371"
+  },
+  {
+    "Title":"Resource and Energy Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0928-7655"
+  },
+  {
+    "Title":"Journal of Institutional and Theoretical Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0932-4569"
+  },
+  {
+    "Title":"Journal of Population Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0933-1433"
+  },
+  {
+    "Title":"Journal of Evolutionary Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0936-9937"
+  },
+  {
+    "Title":"Economic Theory",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0938-2259"
+  },
+  {
+    "Title":"Economic Systems",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0939-3625"
+  },
+  {
+    "Title":"Journal of Economic Surveys",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0950-0804"
+  },
+  {
+    "Title":"Review of Political Economy",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0953-8259"
+  },
+  {
+    "Title":"Journal of International Development",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0954-1748"
+  },
+  {
+    "Title":"Structural Change and Economic Dynamics",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0954-349X"
+  },
+  {
+    "Title":"Journal of African Economies",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"0963-8024"
+  },
+  {
+    "Title":"Review of International Economics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"0965-7576"
+  },
+  {
+    "Title":"Economics of Transition, The",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"0967-0750"
+  },
+  {
+    "Title":"IMF: Staff Papers",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"1020-7635"
+  },
+  {
+    "Title":"Defence and Peace Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1024-2694"
+  },
+  {
+    "Title":"Economics of Innovation and New Technology",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1043-8599"
+  },
+  {
+    "Title":"Journal of Housing Economics",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"1051-1377"
+  },
+  {
+    "Title":"Health Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1057-9230"
+  },
+  {
+    "Title":"Review of Financial Economics",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"1058-3300"
+  },
+  {
+    "Title":"Quarterly Review of Economics and Finance",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1062-9769"
+  },
+  {
+    "Title":"Contemporary Economic Policy",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1074-3529"
+  },
+  {
+    "Title":"Real Estate Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1080-8620"
+  },
+  {
+    "Title":"Studies in Nonlinear Dynamics and Econometrics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1081-1826"
+  },
+  {
+    "Title":"Studies in Economics and Finance",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"1086-7376"
+  },
+  {
+    "Title":"Review of Economic Dynamics",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"1094-2025"
+  },
+  {
+    "Title":"Journal of Public Economic Theory",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1097-3923"
+  },
+  {
+    "Title":"Journal of Economic Methodology",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1350-178X"
+  },
+  {
+    "Title":"Applied Economics Letters",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"1350-4851"
+  },
+  {
+    "Title":"International Journal of the Economics of Business",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"1357-1516"
+  },
+  {
+    "Title":"Economic Issues",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1363-7029"
+  },
+  {
+    "Title":"Australian Journal of Agricultural and Resource Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1364-985X"
+  },
+  {
+    "Title":"Macroeconomic Dynamics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1365-1005"
+  },
+  {
+    "Title":"Econometrics Journal",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"1368-4221"
+  },
+  {
+    "Title":"Annals of Public and Cooperative Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1370-4788"
+  },
+  {
+    "Title":"Experimental Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1386-4157"
+  },
+  {
+    "Title":"Post-Communist Economies",
+    "Rating":1,
+    "Field":"ECON",
+    "ISSN":"1463-1377"
+  },
+  {
+    "Title":"Manchester School",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"1463-6786"
+  },
+  {
+    "Title":"Journal of the European Economic Association",
+    "Rating":4,
+    "Field":"ECON",
+    "ISSN":"1542-4766"
+  },
+  {
+    "Title":"Review of World Economics",
+    "Rating":2,
+    "Field":"ECON",
+    "ISSN":"1610-2878"
+  },
+  {
+    "Title":"Journal of Law, Economics and Organization",
+    "Rating":3,
+    "Field":"ECON",
+    "ISSN":"8756-6222"
+  },
+  {
+    "Title":"Journal of Small Business Management",
+    "Rating":3,
+    "Field":"ENT-SBM",
+    "ISSN":"0047-2778"
+  },
+  {
+    "Title":"Journal of Enterprising Culture",
+    "Rating":1,
+    "Field":"ENT-SBM",
+    "ISSN":"0218-4958"
+  },
+  {
+    "Title":"International Small Business Journal",
+    "Rating":3,
+    "Field":"ENT-SBM",
+    "ISSN":"0266-2426"
+  },
+  {
+    "Title":"Journal of Business Venturing",
+    "Rating":4,
+    "Field":"ENT-SBM",
+    "ISSN":"0883-9026"
+  },
+  {
+    "Title":"Family Business Review",
+    "Rating":2,
+    "Field":"ENT-SBM",
+    "ISSN":"0894-4865"
+  },
+  {
+    "Title":"Entrepreneurship and Regional Development",
+    "Rating":3,
+    "Field":"ENT-SBM",
+    "ISSN":"0898-5626"
+  },
+  {
+    "Title":"Small Business Economics",
+    "Rating":3,
+    "Field":"ENT-SBM",
+    "ISSN":"0921-898X"
+  },
+  {
+    "Title":"Journal of Entrepreneurship",
+    "Rating":1,
+    "Field":"ENT-SBM",
+    "ISSN":"0971-3557"
+  },
+  {
+    "Title":"Entrepreneurship, Theory and Practice",
+    "Rating":4,
+    "Field":"ENT-SBM",
+    "ISSN":"1042-2587"
+  },
+  {
+    "Title":"International Journal of Entrepreneurial Behavior and Research",
+    "Rating":2,
+    "Field":"ENT-SBM",
+    "ISSN":"1355-2554"
+  },
+  {
+    "Title":"Venture Capital: An International Journal of Entrepreneurial Finance",
+    "Rating":2,
+    "Field":"ENT-SBM",
+    "ISSN":"1369-1066"
+  },
+  {
+    "Title":"Journal of Small Business and Enterprise Development",
+    "Rating":2,
+    "Field":"ENT-SBM",
+    "ISSN":"1462-6004"
+  },
+  {
+    "Title":"International Journal of Entrepreneurship and Innovation",
+    "Rating":2,
+    "Field":"ENT-SBM",
+    "ISSN":"1465-7503"
+  },
+  {
+    "Title":"International Entrepreneurship and Management Journal",
+    "Rating":1,
+    "Field":"ENT-SBM",
+    "ISSN":"1554-7191"
+  },
+  {
+    "Title":"Journal of International Entrepreneurship",
+    "Rating":1,
+    "Field":"ENT-SBM",
+    "ISSN":"1570-7385"
+  },
+  {
+    "Title":"Social Enterprise",
+    "Rating":1,
+    "Field":"ENT-SBM",
+    "ISSN":"1750-8614"
+  },
+  {
+    "Title":"World Review of Entrepreneurship, Management and Sustainable Development",
+    "Rating":1,
+    "Field":"ENT-SBM",
+    "ISSN":"1756-0573"
+  },
+  {
+    "Title":"Strategic Entrepreneurship Journal",
+    "Rating":3,
+    "Field":"ENT-SBM",
+    "ISSN":"1932-4391"
+  },
+  {
+    "Title":"Journal of Business Law",
+    "Rating":2,
+    "Field":"ETH-GOV",
+    "ISSN":"0021-9460"
+  },
+  {
+    "Title":"Journal of Business Ethics",
+    "Rating":3,
+    "Field":"ETH-GOV",
+    "ISSN":"0167-4544"
+  },
+  {
+    "Title":"Journal of Law and Society",
+    "Rating":2,
+    "Field":"ETH-GOV",
+    "ISSN":"0263-323X"
+  },
+  {
+    "Title":"Business and Professional Ethics",
+    "Rating":1,
+    "Field":"ETH-GOV",
+    "ISSN":"0277-2027"
+  },
+  {
+    "Title":"Governance: An International Journal of Policy, Administration and Institutions",
+    "Rating":3,
+    "Field":"ETH-GOV",
+    "ISSN":"0952-1895"
+  },
+  {
+    "Title":"Business Ethics: A European Review",
+    "Rating":2,
+    "Field":"ETH-GOV",
+    "ISSN":"0962-8770"
+  },
+  {
+    "Title":"Corporate Governance: An International Review",
+    "Rating":3,
+    "Field":"ETH-GOV",
+    "ISSN":"0964-8410"
+  },
+  {
+    "Title":"Business Ethics Quarterly",
+    "Rating":3,
+    "Field":"ETH-GOV",
+    "ISSN":"1052-150X"
+  },
+  {
+    "Title":"Corporate Reputation Review",
+    "Rating":1,
+    "Field":"ETH-GOV",
+    "ISSN":"1363-3589"
+  },
+  {
+    "Title":"Journal of Management and Governance",
+    "Rating":1,
+    "Field":"ETH-GOV",
+    "ISSN":"1385-3457"
+  },
+  {
+    "Title":"Economics of Governance",
+    "Rating":1,
+    "Field":"ETH-GOV",
+    "ISSN":"1435-6104"
+  },
+  {
+    "Title":"Corporate Governance: The International Journal of Business in Society",
+    "Rating":1,
+    "Field":"ETH-GOV",
+    "ISSN":"1472-0701"
+  },
+  {
+    "Title":"Corporate Social Responsibility and Environmental Management",
+    "Rating":1,
+    "Field":"ETH-GOV",
+    "ISSN":"1535-3958"
+  },
+  {
+    "Title":"Ethics and Information Technology",
+    "Rating":1,
+    "Field":"ETH-GOV",
+    "ISSN":"1572-8439"
+  },
+  {
+    "Title":"Corporate Ownership and Control",
+    "Rating":1,
+    "Field":"ETH-GOV",
+    "ISSN":"1727-9232"
+  },
+  {
+    "Title":"International Journal of Business Governance and Ethics",
+    "Rating":1,
+    "Field":"ETH-GOV",
+    "ISSN":"1741-802X"
+  },
+  {
+    "Title":"Financial Analysts Journal",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0015-198X"
+  },
+  {
+    "Title":"Journal of Finance *",
+    "Rating":4,
+    "Field":"FINANCE",
+    "ISSN":"0022-1082"
+  },
+  {
+    "Title":"Journal of Financial and Quantitative Analysis",
+    "Rating":4,
+    "Field":"FINANCE",
+    "ISSN":"0022-1090"
+  },
+  {
+    "Title":"Journal of Money, Credit and Banking",
+    "Rating":4,
+    "Field":"FINANCE",
+    "ISSN":"0022-2879"
+  },
+  {
+    "Title":"Journal of Risk and Insurance",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0022-4367"
+  },
+  {
+    "Title":"Financial Management (USA)",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0046-3892"
+  },
+  {
+    "Title":"Journal of Portfolio Management",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0095-4918"
+  },
+  {
+    "Title":"Insurance, Mathematics and Economics",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0167-6687"
+  },
+  {
+    "Title":"International Journal of Theoretical and Applied Finance",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0219-0249"
+  },
+  {
+    "Title":"Journal of International Money and Finance",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0261-5606"
+  },
+  {
+    "Title":"Journal of Financial Research",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0270-2592"
+  },
+  {
+    "Title":"Journal of Futures Markets",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0270-7314"
+  },
+  {
+    "Title":"Research in International Business and Finance",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0275-5319"
+  },
+  {
+    "Title":"Journal of Financial Economics",
+    "Rating":4,
+    "Field":"FINANCE",
+    "ISSN":"0304-405X"
+  },
+  {
+    "Title":"Journal of Business Finance and Accounting",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0306-686X"
+  },
+  {
+    "Title":"Managerial Finance",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"0307-4358"
+  },
+  {
+    "Title":"Journal of Banking and Finance",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0378-4266"
+  },
+  {
+    "Title":"Physica A: Statistical Mechanics and Its Applications",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"0378-4371"
+  },
+  {
+    "Title":"ASTIN Bulletin: Journal of International Actuarial Association",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0515-0361"
+  },
+  {
+    "Title":"Financial Review",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0800-3564"
+  },
+  {
+    "Title":"Review of Financial Studies *",
+    "Rating":4,
+    "Field":"FINANCE",
+    "ISSN":"0893-9454"
+  },
+  {
+    "Title":"Journal of Real Estate Finance and Economics",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0895-5638"
+  },
+  {
+    "Title":"Journal of Financial Services Research",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0920-8550"
+  },
+  {
+    "Title":"Review of Quantitative Finance and Accounting",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0924-865X"
+  },
+  {
+    "Title":"Pacific-Basin Finance Journal",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0927-538X"
+  },
+  {
+    "Title":"Journal of Empirical Finance",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0927-5398"
+  },
+  {
+    "Title":"International Tax and Public Finance",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0927-5940"
+  },
+  {
+    "Title":"Journal of Corporate Finance",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0929-1199"
+  },
+  {
+    "Title":"Finance and Stochastics",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0949-2984"
+  },
+  {
+    "Title":"Journal of International Financial Management and Accounting",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0954-1314"
+  },
+  {
+    "Title":"Mathematical Finance",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0960-1627"
+  },
+  {
+    "Title":"Applied Financial Economics",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0960-3107"
+  },
+  {
+    "Title":"Financial Markets, Institutions and Instruments",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"0963-8008"
+  },
+  {
+    "Title":"Journal of Emerging Market Finance",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"0972-6527"
+  },
+  {
+    "Title":"Geneva Papers on Risk and Insurance: Issues and Practice",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1018-5895"
+  },
+  {
+    "Title":"Journal of International Financial Markets, Institutions and Money",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"1042-4431"
+  },
+  {
+    "Title":"Journal of Multinational Financial Management",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1042-444X"
+  },
+  {
+    "Title":"Journal of Financial Intermediation",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"1042-9573"
+  },
+  {
+    "Title":"Global Finance Journal",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1044-0283"
+  },
+  {
+    "Title":"Intelligent Systems in Accounting, Finance and Management",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1055-615X"
+  },
+  {
+    "Title":"International Review of Financial Analysis",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"1057-5219"
+  },
+  {
+    "Title":"Journal of Fixed Income",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1059-8596"
+  },
+  {
+    "Title":"Journal of Derivatives",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1074-1240"
+  },
+  {
+    "Title":"International Journal of Finance and Economics",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1076-9307"
+  },
+  {
+    "Title":"Journal of Applied Corporate Finance",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1078-1196"
+  },
+  {
+    "Title":"North American Actuarial Journal",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1092-0277"
+  },
+  {
+    "Title":"Multinational Finance Journal",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1096-1879"
+  },
+  {
+    "Title":"European Journal of Finance",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"1351-847X"
+  },
+  {
+    "Title":"European Financial Management",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"1354-7798"
+  },
+  {
+    "Title":"British Actuarial Journal",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1357-3217"
+  },
+  {
+    "Title":"Journal of Financial Regulation and Compliance",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1358-1988"
+  },
+  {
+    "Title":"Review of Derivatives Research",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1380-6645"
+  },
+  {
+    "Title":"Journal of Financial Markets",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"1386-4181"
+  },
+  {
+    "Title":"Quantitative Finance",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1469-7688"
+  },
+  {
+    "Title":"Journal of Asset Management",
+    "Rating":2,
+    "Field":"FINANCE",
+    "ISSN":"1470-8272"
+  },
+  {
+    "Title":"Journal of Pension Economics and Finance",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1474-7472"
+  },
+  {
+    "Title":"Journal of Finance and Management in Public Services",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1475-1283"
+  },
+  {
+    "Title":"Journal of Financial Econometrics",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1479-8409"
+  },
+  {
+    "Title":"Journal of Alternative Investments",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1520-3255"
+  },
+  {
+    "Title":"Journal of Risk Finance",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1526-5943"
+  },
+  {
+    "Title":"Journal of Financial Stability",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1572-3089"
+  },
+  {
+    "Title":"Review of Finance (formerly European Finance Review)",
+    "Rating":3,
+    "Field":"FINANCE",
+    "ISSN":"1572-3097"
+  },
+  {
+    "Title":"Annals of Finance",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1614-2446"
+  },
+  {
+    "Title":"Investment Management and Financial Innovations",
+    "Rating":1,
+    "Field":"FINANCE",
+    "ISSN":"1810-4967"
+  },
+  {
+    "Title":"Academy of Management Journal *",
+    "Rating":4,
+    "Field":"GEN MAN",
+    "ISSN":"0001-4273"
+  },
+  {
+    "Title":"Administrative Science Quarterly *",
+    "Rating":4,
+    "Field":"GEN MAN",
+    "ISSN":"0001-8392"
+  },
+  {
+    "Title":"Business Horizons",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"0007-6813"
+  },
+  {
+    "Title":"California Management Review",
+    "Rating":3,
+    "Field":"GEN MAN",
+    "ISSN":"0008-1256"
+  },
+  {
+    "Title":"Harvard Business Review",
+    "Rating":4,
+    "Field":"GEN MAN",
+    "ISSN":"0017-8012"
+  },
+  {
+    "Title":"International Review of Administrative Sciences",
+    "Rating":2,
+    "Field":"GEN MAN",
+    "ISSN":"0020-8523"
+  },
+  {
+    "Title":"International Studies of Management and Organization",
+    "Rating":2,
+    "Field":"GEN MAN",
+    "ISSN":"0020-8825"
+  },
+  {
+    "Title":"Journal of Management Studies",
+    "Rating":4,
+    "Field":"GEN MAN",
+    "ISSN":"0022-2380"
+  },
+  {
+    "Title":"Management Decision",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"0025-1747"
+  },
+  {
+    "Title":"Singapore Management Review",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"0129-5977"
+  },
+  {
+    "Title":"Journal of Management",
+    "Rating":4,
+    "Field":"GEN MAN",
+    "ISSN":"0149-2063"
+  },
+  {
+    "Title":"Asia Pacific Journal of Management",
+    "Rating":2,
+    "Field":"GEN MAN",
+    "ISSN":"0217-4561"
+  },
+  {
+    "Title":"European Management Journal",
+    "Rating":2,
+    "Field":"GEN MAN",
+    "ISSN":"0263-2373"
+  },
+  {
+    "Title":"Journal of General Management",
+    "Rating":2,
+    "Field":"GEN MAN",
+    "ISSN":"0306-3070"
+  },
+  {
+    "Title":"Academy of Management Review *",
+    "Rating":4,
+    "Field":"GEN MAN",
+    "ISSN":"0363-7425"
+  },
+  {
+    "Title":"International Journal of Management",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"0813-0183"
+  },
+  {
+    "Title":"Canadian Journal of Administrative Sciences",
+    "Rating":2,
+    "Field":"GEN MAN",
+    "ISSN":"0825-0383"
+  },
+  {
+    "Title":"European Business Review",
+    "Rating":2,
+    "Field":"GEN MAN",
+    "ISSN":"0955-534X"
+  },
+  {
+    "Title":"European Business Journal",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"0955-808X"
+  },
+  {
+    "Title":"Scandinavian Journal of Management",
+    "Rating":2,
+    "Field":"GEN MAN",
+    "ISSN":"0956-5221"
+  },
+  {
+    "Title":"Competition and Change",
+    "Rating":2,
+    "Field":"GEN MAN",
+    "ISSN":"1024-5294"
+  },
+  {
+    "Title":"British Journal of Management",
+    "Rating":4,
+    "Field":"GEN MAN",
+    "ISSN":"1045-3172"
+  },
+  {
+    "Title":"Journal of Management Inquiry",
+    "Rating":3,
+    "Field":"GEN MAN",
+    "ISSN":"1056-4926"
+  },
+  {
+    "Title":"Qualitative Research in Accounting and Management",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"1176-6093"
+  },
+  {
+    "Title":"International Journal of Knowledge, Culture and Change Management",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"1447-9524"
+  },
+  {
+    "Title":"International Journal of Management Reviews",
+    "Rating":3,
+    "Field":"GEN MAN",
+    "ISSN":"1460-8545"
+  },
+  {
+    "Title":"International Journal of Management and Decision Making",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"1462-4621"
+  },
+  {
+    "Title":"Philosophy of Management",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"1473-589X"
+  },
+  {
+    "Title":"MIT Sloan Management Review",
+    "Rating":3,
+    "Field":"GEN MAN",
+    "ISSN":"1532-9194"
+  },
+  {
+    "Title":"Academy of Management Perspectives",
+    "Rating":3,
+    "Field":"GEN MAN",
+    "ISSN":"1558-9080"
+  },
+  {
+    "Title":"Irish Journal of Management",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"1649-248X"
+  },
+  {
+    "Title":"European Management Review",
+    "Rating":1,
+    "Field":"GEN MAN",
+    "ISSN":"1740-4754"
+  },
+  {
+    "Title":"British Journal of Industrial Relations",
+    "Rating":4,
+    "Field":"HRM&EMP",
+    "ISSN":"0007-1080"
+  },
+  {
+    "Title":"Industrial and Labor Relations Review",
+    "Rating":3,
+    "Field":"HRM&EMP",
+    "ISSN":"0019-7939"
+  },
+  {
+    "Title":"Industrial Relations: A Journal of Economy and Society",
+    "Rating":4,
+    "Field":"HRM&EMP",
+    "ISSN":"0019-8676"
+  },
+  {
+    "Title":"Industrial Relations Journal",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"0019-8692"
+  },
+  {
+    "Title":"International Labour Review",
+    "Rating":3,
+    "Field":"HRM&EMP",
+    "ISSN":"0020-7780"
+  },
+  {
+    "Title":"Journal of Industrial Relations",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"0022-1856"
+  },
+  {
+    "Title":"Relations Industrielles/Industrial Relations",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"0034-379X"
+  },
+  {
+    "Title":"Sociologie du Travail",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"0038-0296"
+  },
+  {
+    "Title":"Personnel Review",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"0048-3486"
+  },
+  {
+    "Title":"Human Resource Management (USA)",
+    "Rating":4,
+    "Field":"HRM&EMP",
+    "ISSN":"0090-4848"
+  },
+  {
+    "Title":"Employee Relations",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"0142-5455"
+  },
+  {
+    "Title":"International Journal of Manpower",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"0143-7720"
+  },
+  {
+    "Title":"Economic and Industrial Democracy",
+    "Rating":3,
+    "Field":"HRM&EMP",
+    "ISSN":"0143-831X"
+  },
+  {
+    "Title":"Journal of Labour Research",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"0195-3613"
+  },
+  {
+    "Title":"Equality, Diversity and Inclusion: an International Journal",
+    "Rating":1,
+    "Field":"HRM&EMP",
+    "ISSN":"0261-0159"
+  },
+  {
+    "Title":"New Technology, Work and Employment",
+    "Rating":3,
+    "Field":"HRM&EMP",
+    "ISSN":"0268-1072"
+  },
+  {
+    "Title":"Industrial Law Journal",
+    "Rating":3,
+    "Field":"HRM&EMP",
+    "ISSN":"0305-9332"
+  },
+  {
+    "Title":"Work and Occupations",
+    "Rating":3,
+    "Field":"HRM&EMP",
+    "ISSN":"0730-8884"
+  },
+  {
+    "Title":"Review of Public Personnel Administration",
+    "Rating":1,
+    "Field":"HRM&EMP",
+    "ISSN":"0734-371X"
+  },
+  {
+    "Title":"Advances in Industrial and Labor Relations",
+    "Rating":1,
+    "Field":"HRM&EMP",
+    "ISSN":"0742-6186"
+  },
+  {
+    "Title":"Work, Employment and Society",
+    "Rating":4,
+    "Field":"HRM&EMP",
+    "ISSN":"0950-0170"
+  },
+  {
+    "Title":"Human Resource Management Journal(UK)",
+    "Rating":3,
+    "Field":"HRM&EMP",
+    "ISSN":"0954-5395"
+  },
+  {
+    "Title":"International Journal of Human Resource Management",
+    "Rating":3,
+    "Field":"HRM&EMP",
+    "ISSN":"0958-5192"
+  },
+  {
+    "Title":"European Journal of Industrial Relations",
+    "Rating":3,
+    "Field":"HRM&EMP",
+    "ISSN":"0959-6801"
+  },
+  {
+    "Title":"Gender in Management: An International Journal",
+    "Rating":1,
+    "Field":"HRM&EMP",
+    "ISSN":"0964-9425"
+  },
+  {
+    "Title":"Gender, Work and Organization",
+    "Rating":3,
+    "Field":"HRM&EMP",
+    "ISSN":"0968-6673"
+  },
+  {
+    "Title":"Labor Studies Journal",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"1030-1763"
+  },
+  {
+    "Title":"Asia Pacific Journal of Human Resources",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"1038-4111"
+  },
+  {
+    "Title":"International Journal of Employment Studies",
+    "Rating":1,
+    "Field":"HRM&EMP",
+    "ISSN":"1039-6993"
+  },
+  {
+    "Title":"Human Resource Development Quarterly",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"1044-8004"
+  },
+  {
+    "Title":"Human Resource Management Review",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"1053-4822"
+  },
+  {
+    "Title":"Labour: Review of Labour Economics and Industrial Relations",
+    "Rating":1,
+    "Field":"HRM&EMP",
+    "ISSN":"1121-7081"
+  },
+  {
+    "Title":"Career Development International",
+    "Rating":1,
+    "Field":"HRM&EMP",
+    "ISSN":"1362-0436"
+  },
+  {
+    "Title":"Human Resource Development International",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"1367-8868"
+  },
+  {
+    "Title":"Human Resource Development Review",
+    "Rating":2,
+    "Field":"HRM&EMP",
+    "ISSN":"1534-4843"
+  },
+  {
+    "Title":"Journal of Common Market Studies",
+    "Rating":3,
+    "Field":"IB&AREA",
+    "ISSN":"0021-9886"
+  },
+  {
+    "Title":"Management International Review",
+    "Rating":3,
+    "Field":"IB&AREA",
+    "ISSN":"0025-181X"
+  },
+  {
+    "Title":"Journal of International Business Studies",
+    "Rating":4,
+    "Field":"IB&AREA",
+    "ISSN":"0047-2506"
+  },
+  {
+    "Title":"China Quarterly",
+    "Rating":2,
+    "Field":"IB&AREA",
+    "ISSN":"0305-7410"
+  },
+  {
+    "Title":"Journal of East European Management Studies",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"0949-6181"
+  },
+  {
+    "Title":"Europe-Asia Studies",
+    "Rating":2,
+    "Field":"IB&AREA",
+    "ISSN":"0966-8136"
+  },
+  {
+    "Title":"International Business Review",
+    "Rating":3,
+    "Field":"IB&AREA",
+    "ISSN":"0969-5931"
+  },
+  {
+    "Title":"Journal of World Trade",
+    "Rating":2,
+    "Field":"IB&AREA",
+    "ISSN":"1011-6702"
+  },
+  {
+    "Title":"Transnational Corporations",
+    "Rating":2,
+    "Field":"IB&AREA",
+    "ISSN":"1014-9562"
+  },
+  {
+    "Title":"China Economic Review",
+    "Rating":2,
+    "Field":"IB&AREA",
+    "ISSN":"1043-951X"
+  },
+  {
+    "Title":"Journal of East-West Business",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"1066-9868"
+  },
+  {
+    "Title":"Journal of International Management",
+    "Rating":2,
+    "Field":"IB&AREA",
+    "ISSN":"1075-4253"
+  },
+  {
+    "Title":"Journal of World Business (formerly Columbia JWB)",
+    "Rating":3,
+    "Field":"IB&AREA",
+    "ISSN":"1090-9516"
+  },
+  {
+    "Title":"Thunderbird International Business Review",
+    "Rating":2,
+    "Field":"IB&AREA",
+    "ISSN":"1096-4762"
+  },
+  {
+    "Title":"Global Business and Economics Review",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"1097-4954"
+  },
+  {
+    "Title":"Cross Cultural Management: An International Journal",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"1352-7606"
+  },
+  {
+    "Title":"Asia Pacific Business Review",
+    "Rating":2,
+    "Field":"IB&AREA",
+    "ISSN":"1360-2381"
+  },
+  {
+    "Title":"International Journal of Cross Cultural Management",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"1470-5958"
+  },
+  {
+    "Title":"Journal of Chinese Economic and Business Studies",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"1476-5284"
+  },
+  {
+    "Title":"Multinational Business Review",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"1525-383X"
+  },
+  {
+    "Title":"Emerging Markets Review",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"1566-0141"
+  },
+  {
+    "Title":"Critical Perspectives on International Business",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"1742-2043"
+  },
+  {
+    "Title":"European Journal of International Management",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"1751-6757"
+  },
+  {
+    "Title":"International Journal of Indian Culture and Business Management",
+    "Rating":1,
+    "Field":"IB&AREA",
+    "ISSN":"1753-0896"
+  },
+  {
+    "Title":"Communications of the ACM",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"0001-0782"
+  },
+  {
+    "Title":"British Journal of Educational Technology",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0007-1013"
+  },
+  {
+    "Title":"Computer Journal",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0010-4620"
+  },
+  {
+    "Title":"Annual Review of Information Science and Technology",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0066-4200"
+  },
+  {
+    "Title":"Database",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0095-0033"
+  },
+  {
+    "Title":"IEEE Transactions on Software Engineering",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"0098-5589"
+  },
+  {
+    "Title":"Behavior and Information Technology",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0144-929X"
+  },
+  {
+    "Title":"Journal of Information Science",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0165-5515"
+  },
+  {
+    "Title":"Decision Support Systems",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"0167-9236"
+  },
+  {
+    "Title":"Information Society",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0197-2243"
+  },
+  {
+    "Title":"Industrial Management and Data Systems",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"0263-5577"
+  },
+  {
+    "Title":"Expert Systems: the Journal of Knowledge Engineering",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0266-4720"
+  },
+  {
+    "Title":"Journal of Information Technology",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"0268-3962"
+  },
+  {
+    "Title":"International Journal of Information Management",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0268-4012"
+  },
+  {
+    "Title":"MIS Quarterly *",
+    "Rating":4,
+    "Field":"INFO MAN",
+    "ISSN":"0276-7783"
+  },
+  {
+    "Title":"Information Processing and Management",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"0306-4573"
+  },
+  {
+    "Title":"Information and Management",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"0378-7206"
+  },
+  {
+    "Title":"IIE Transactions",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"0740-817X"
+  },
+  {
+    "Title":"Journal of Management Information Systems",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"0742-1222"
+  },
+  {
+    "Title":"Journal of Computer Information Systems",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0887-4417"
+  },
+  {
+    "Title":"Computer Supported Cooperative Work",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"0925-9724"
+  },
+  {
+    "Title":"Information and Software Technology",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0950-5849"
+  },
+  {
+    "Title":"Interacting with Computers",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0953-5438"
+  },
+  {
+    "Title":"Expert Systems with Applications",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"0957-4174"
+  },
+  {
+    "Title":"Logistics Information Management",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"0957-6053"
+  },
+  {
+    "Title":"Information Technology and People",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"0959-3845"
+  },
+  {
+    "Title":"European Journal of Information Systems",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"0960-085X"
+  },
+  {
+    "Title":"Journal of Strategic Information Systems",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"0963-8687"
+  },
+  {
+    "Title":"Information Management and Computer Security",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"0968-5227"
+  },
+  {
+    "Title":"Information Resources Management Journal",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"1040-1628"
+  },
+  {
+    "Title":"Information Systems Research *",
+    "Rating":4,
+    "Field":"INFO MAN",
+    "ISSN":"1047-7047"
+  },
+  {
+    "Title":"ACM Transactions on Software Engineering and Methodology",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"1049-331X"
+  },
+  {
+    "Title":"Information Systems Management",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"1058-0530"
+  },
+  {
+    "Title":"Journal of Global Information Management",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"1062-7375"
+  },
+  {
+    "Title":"Internet Research",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"1066-2243"
+  },
+  {
+    "Title":"International Journal of Human-Computer Studies",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"1071-5819"
+  },
+  {
+    "Title":"ACM Transactions on Computer-Human Interaction",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"1073-0516"
+  },
+  {
+    "Title":"International Journal of Electronic Commerce",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"1086-4415"
+  },
+  {
+    "Title":"IEEE Transactions on Information Technology in Biomedicine",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"1089-7771"
+  },
+  {
+    "Title":"IEEE Transactions on Evolutionary Computation",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"1089-778X"
+  },
+  {
+    "Title":"INFORMS Journal on Computing",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"1091-9856"
+  },
+  {
+    "Title":"IEEE Transactions on Systems Man and Cybernetics Part C (Applications and Reviews)",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"1094-6977"
+  },
+  {
+    "Title":"Information Systems Journal",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"1350-1917"
+  },
+  {
+    "Title":"Information Research",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"1368-1613"
+  },
+  {
+    "Title":"Information Systems Frontiers",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"1387-3326"
+  },
+  {
+    "Title":"Information and Organization",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"1471-7727"
+  },
+  {
+    "Title":"Knowledge Management Research and Practice",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"1477-8238"
+  },
+  {
+    "Title":"Communications of the Association for Information Systems",
+    "Rating":2,
+    "Field":"INFO MAN",
+    "ISSN":"1529-3181"
+  },
+  {
+    "Title":"Journal of the American Society for Information Science and Technology (JASIST)",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"1532-2882"
+  },
+  {
+    "Title":"Journal of the Association of Information Systems",
+    "Rating":3,
+    "Field":"INFO MAN",
+    "ISSN":"1536-9323"
+  },
+  {
+    "Title":"Journal of Organizational and End User Computing",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"1546-2234"
+  },
+  {
+    "Title":"Journal of Enterprise Information Management",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"1741-0398"
+  },
+  {
+    "Title":"International Journal of Information Technology and Management",
+    "Rating":1,
+    "Field":"INFO MAN",
+    "ISSN":"1741-5179"
+  },
+  {
+    "Title":"R and D Management",
+    "Rating":3,
+    "Field":"INNOV",
+    "ISSN":"0033-6807"
+  },
+  {
+    "Title":"Technovation",
+    "Rating":3,
+    "Field":"INNOV",
+    "ISSN":"0166-4972"
+  },
+  {
+    "Title":"Journal of Product Innovation Management",
+    "Rating":4,
+    "Field":"INNOV",
+    "ISSN":"0737-6782"
+  },
+  {
+    "Title":"Journal of Techology Transfer",
+    "Rating":1,
+    "Field":"INNOV",
+    "ISSN":"0892-9912"
+  },
+  {
+    "Title":"Creativity and Innovation Management",
+    "Rating":1,
+    "Field":"INNOV",
+    "ISSN":"0963-1690"
+  },
+  {
+    "Title":"International Journal of Innovation Management",
+    "Rating":2,
+    "Field":"INNOV",
+    "ISSN":"1363-9196"
+  },
+  {
+    "Title":"Industry and Innovation",
+    "Rating":2,
+    "Field":"INNOV",
+    "ISSN":"1366-2716"
+  },
+  {
+    "Title":"International Journal of Entrepreneurship and Innovation Management (IJEIM)",
+    "Rating":1,
+    "Field":"INNOV",
+    "ISSN":"1368-275X"
+  },
+  {
+    "Title":"European Journal of Innovation Management",
+    "Rating":1,
+    "Field":"INNOV",
+    "ISSN":"1460-1060"
+  },
+  {
+    "Title":"Journal of Higher Education",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"0022-1546"
+  },
+  {
+    "Title":"Education and Training",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"0040-0912"
+  },
+  {
+    "Title":"British Educational Research Journal",
+    "Rating":3,
+    "Field":"MDEV&EDU",
+    "ISSN":"0141-1926"
+  },
+  {
+    "Title":"Journal of Management Development",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"0262-1711"
+  },
+  {
+    "Title":"Journal of Education Policy",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"0268-0939"
+  },
+  {
+    "Title":"Journal of Marketing Education",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"0273-4753"
+  },
+  {
+    "Title":"British Journal of Guidance and Counselling",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"0306-9885"
+  },
+  {
+    "Title":"Studies in Higher Education",
+    "Rating":3,
+    "Field":"MDEV&EDU",
+    "ISSN":"0307-5079"
+  },
+  {
+    "Title":"Journal of European Industrial Training",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"0309-0590"
+  },
+  {
+    "Title":"Journal of Further and Higher Education",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"0309-877X"
+  },
+  {
+    "Title":"Issues in Accounting Education",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"0739-3172"
+  },
+  {
+    "Title":"Journal of Accounting Education",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"0748-5751"
+  },
+  {
+    "Title":"Industry and Higher Education",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"0950-4222"
+  },
+  {
+    "Title":"Higher Education Quarterly",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"0951-5224"
+  },
+  {
+    "Title":"Accounting Education",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"0963-9284"
+  },
+  {
+    "Title":"Quality Assurance in Education",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"0968-4883"
+  },
+  {
+    "Title":"Journal of Management Education",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"1052-5629"
+  },
+  {
+    "Title":"Management Learning",
+    "Rating":3,
+    "Field":"MDEV&EDU",
+    "ISSN":"1350-5076"
+  },
+  {
+    "Title":"Teaching in Higher Education",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"1356-2517"
+  },
+  {
+    "Title":"International Journal of Training and Development",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"1360-3736"
+  },
+  {
+    "Title":"Journal of Vocational Education and Training",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"1363-6820"
+  },
+  {
+    "Title":"Journal of Education and Work",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"1363-9080"
+  },
+  {
+    "Title":"Journal of Workplace Learning",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"1366-5626"
+  },
+  {
+    "Title":"Active Learning in Higher Education",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"1469-7874"
+  },
+  {
+    "Title":"Innovations in Education and Teaching International",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"1470-3297"
+  },
+  {
+    "Title":"International Journal of Management Education (IJME)",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"1472-8117"
+  },
+  {
+    "Title":"Advances in Developing Human Resources",
+    "Rating":2,
+    "Field":"MDEV&EDU",
+    "ISSN":"1523-4223"
+  },
+  {
+    "Title":"Academy of Management, Learning and Education",
+    "Rating":3,
+    "Field":"MDEV&EDU",
+    "ISSN":"1537-260X"
+  },
+  {
+    "Title":"Educational Management Administration and Leadership",
+    "Rating":1,
+    "Field":"MDEV&EDU",
+    "ISSN":"1741-1432"
+  },
+  {
+    "Title":"Industrial Marketing Management",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0019-8501"
+  },
+  {
+    "Title":"Journal of Advertising Research",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0021-8499"
+  },
+  {
+    "Title":"Journal of Marketing *",
+    "Rating":4,
+    "Field":"MKT",
+    "ISSN":"0022-2429"
+  },
+  {
+    "Title":"Journal of Marketing Research *",
+    "Rating":4,
+    "Field":"MKT",
+    "ISSN":"0022-2437"
+  },
+  {
+    "Title":"Journal of Retailing",
+    "Rating":4,
+    "Field":"MKT",
+    "ISSN":"0022-4359"
+  },
+  {
+    "Title":"Journal of Advertising",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0091-3367"
+  },
+  {
+    "Title":"Journal of the Academy of Marketing Science",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0092-0703"
+  },
+  {
+    "Title":"Journal of Consumer Research *",
+    "Rating":4,
+    "Field":"MKT",
+    "ISSN":"0093-5301"
+  },
+  {
+    "Title":"Journal of Business Research",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0148-2963"
+  },
+  {
+    "Title":"International Journal of Research in Marketing",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0167-8116"
+  },
+  {
+    "Title":"Marketing Intelligence and Planning",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"0263-4503"
+  },
+  {
+    "Title":"International Journal of Advertising",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"0265-0487"
+  },
+  {
+    "Title":"International Marketing Review",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0265-1335"
+  },
+  {
+    "Title":"International Journal of Bank Marketing",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"0265-2323"
+  },
+  {
+    "Title":"Journal of Marketing Management",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0267-257X"
+  },
+  {
+    "Title":"Journal of Macromarketing",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"0276-1467"
+  },
+  {
+    "Title":"European Journal of Marketing",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0309-0566"
+  },
+  {
+    "Title":"Marketing Science *",
+    "Rating":4,
+    "Field":"MKT",
+    "ISSN":"0732-2399"
+  },
+  {
+    "Title":"Journal of Consumer Marketing",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"0736-3761"
+  },
+  {
+    "Title":"Psychology and Marketing",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0742-6046"
+  },
+  {
+    "Title":"Irish Marketing Review",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"0790-7362"
+  },
+  {
+    "Title":"Journal of Personal Selling and Sales Management",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"0885-3134"
+  },
+  {
+    "Title":"Journal of Business and Industrial Marketing",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"0885-8624"
+  },
+  {
+    "Title":"Journal of Services Marketing",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"0887-6045"
+  },
+  {
+    "Title":"Advances in Consumer Research",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"0915-5524"
+  },
+  {
+    "Title":"Marketing Letters",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"0923-0645"
+  },
+  {
+    "Title":"International Journal of Retail and Distribution Management",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"0959-0552"
+  },
+  {
+    "Title":"International Review of Retail, Distribution and Consumer Research",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"0959-3969"
+  },
+  {
+    "Title":"Journal of Strategic Marketing",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"0965-254X"
+  },
+  {
+    "Title":"Journal of Targeting, Measurement and Analysis for Marketing",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"0967-3237"
+  },
+  {
+    "Title":"Journal of Retailing and Consumer Services",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"0969-6989"
+  },
+  {
+    "Title":"Electronic Markets",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1019-6781"
+  },
+  {
+    "Title":"Consumption, Markets and Culture",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"1025-3866"
+  },
+  {
+    "Title":"Journal of Non-Profit and Public Sector Marketing",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1049-5142"
+  },
+  {
+    "Title":"Journal of Euromarketing",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1049-6483"
+  },
+  {
+    "Title":"Journal of Business-to-Business Marketing",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"1051-712X"
+  },
+  {
+    "Title":"Journal of Product and Brand Management",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1061-0421"
+  },
+  {
+    "Title":"Journal of International Marketing",
+    "Rating":3,
+    "Field":"MKT",
+    "ISSN":"1069-031X"
+  },
+  {
+    "Title":"Journal of Interactive Marketing (formerly JDM)",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"1094-9968"
+  },
+  {
+    "Title":"Australasian Marketing Journal",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1320-1646"
+  },
+  {
+    "Title":"Journal of Brand Management",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1350-231X"
+  },
+  {
+    "Title":"Qualitative Market Research: An International Journal",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1352-2752"
+  },
+  {
+    "Title":"Journal of Marketing Communications",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"1352-7266"
+  },
+  {
+    "Title":"Corporate Communications: An International Journal",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1356-3289"
+  },
+  {
+    "Title":"Journal of Financial Services Marketing",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1363-0539"
+  },
+  {
+    "Title":"Marketing Review",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1469-347X"
+  },
+  {
+    "Title":"Marketing Theory",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"1470-5931"
+  },
+  {
+    "Title":"International Journal of Consumer Studies",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1470-6423"
+  },
+  {
+    "Title":"International Journal of Market Research",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"1470-7853"
+  },
+  {
+    "Title":"Journal of Consumer Behavior",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"1472-0817"
+  },
+  {
+    "Title":"Journal of Customer Behavior",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1475-3928"
+  },
+  {
+    "Title":"International Journal of Nonprofit and Voluntary Sector Marketing",
+    "Rating":1,
+    "Field":"MKT",
+    "ISSN":"1479-103X"
+  },
+  {
+    "Title":"Academy of Marketing Science Review",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"1526-1794"
+  },
+  {
+    "Title":"Quantitative Marketing and Economics",
+    "Rating":2,
+    "Field":"MKT",
+    "ISSN":"1570-7156"
+  },
+  {
+    "Title":"IEEE Transactions on Engineering Management",
+    "Rating":3,
+    "Field":"OPS&TECH",
+    "ISSN":"0018-9391"
+  },
+  {
+    "Title":"International Journal of Production Research",
+    "Rating":3,
+    "Field":"OPS&TECH",
+    "ISSN":"0020-7543"
+  },
+  {
+    "Title":"International Journal of Operations and Production Management",
+    "Rating":3,
+    "Field":"OPS&TECH",
+    "ISSN":"0144-3577"
+  },
+  {
+    "Title":"International Journal of Project Management",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0263-7863"
+  },
+  {
+    "Title":"International Journal of Quality and Reliability Management",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0265-671X"
+  },
+  {
+    "Title":"International Journal of Technology Management",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0267-5730"
+  },
+  {
+    "Title":"Journal of Operations Management",
+    "Rating":4,
+    "Field":"OPS&TECH",
+    "ISSN":"0272-6963"
+  },
+  {
+    "Title":"Computers and Industrial Engineering",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0360-8352"
+  },
+  {
+    "Title":"Journal of Construction Engineering and Management",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0733-9364"
+  },
+  {
+    "Title":"Journal of Business Logistics",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0735-3766"
+  },
+  {
+    "Title":"Human-Computer Interaction",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"0737-0024"
+  },
+  {
+    "Title":"Journal of Productivity Analysis",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0895-562X"
+  },
+  {
+    "Title":"International Journal of Flexible Manufacturing Systems",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0920-6299"
+  },
+  {
+    "Title":"International Journal of Production Economics",
+    "Rating":3,
+    "Field":"OPS&TECH",
+    "ISSN":"0925-5273"
+  },
+  {
+    "Title":"International Journal of Computer Integrated Manufacturing",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0951-192X"
+  },
+  {
+    "Title":"Reliability Engineering and System Safety",
+    "Rating":3,
+    "Field":"OPS&TECH",
+    "ISSN":"0951-8320"
+  },
+  {
+    "Title":"Production Planning and Control",
+    "Rating":3,
+    "Field":"OPS&TECH",
+    "ISSN":"0953-7287"
+  },
+  {
+    "Title":"Proceedings of Institute of Mechanical Engineers Part B: Journal of Engineering Manufacture",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"0954-4054"
+  },
+  {
+    "Title":"International Journal of Logistics Management",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0957-4093"
+  },
+  {
+    "Title":"Integrated Manufacturing Systems",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0957-6061"
+  },
+  {
+    "Title":"International Journal of Physical Distribution and Logistics Management",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"0960-0035"
+  },
+  {
+    "Title":"Managing Service Quality",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"0960-4529"
+  },
+  {
+    "Title":"European Journal of Purchasing and Supply Management",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"0969-7012"
+  },
+  {
+    "Title":"Production and Operations Management",
+    "Rating":3,
+    "Field":"OPS&TECH",
+    "ISSN":"1059-1478"
+  },
+  {
+    "Title":"Knowledge and Process Management",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"1092-4604"
+  },
+  {
+    "Title":"Journal of Scheduling",
+    "Rating":3,
+    "Field":"OPS&TECH",
+    "ISSN":"1094-6136"
+  },
+  {
+    "Title":"Supply Chain Management: An International Journal",
+    "Rating":3,
+    "Field":"OPS&TECH",
+    "ISSN":"1359-8546"
+  },
+  {
+    "Title":"International Journal of Logistics: Research and Applications",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"1367-5567"
+  },
+  {
+    "Title":"International Journal of Business Performance Management",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"1368-4892"
+  },
+  {
+    "Title":"Benchmarking: An International Journal",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"1463-5771"
+  },
+  {
+    "Title":"Business Process Management Journal",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"1463-7154"
+  },
+  {
+    "Title":"International Journal of Technology Management and Sustainable Development",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"1474-2748"
+  },
+  {
+    "Title":"Total Quality Management and Business Excellence",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"1478-3363"
+  },
+  {
+    "Title":"Journal of Purchasing and Supply Management",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"1478-4092"
+  },
+  {
+    "Title":"Journal of Supply Chain Management",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"1523-2409"
+  },
+  {
+    "Title":"Manufacturing and Service Operations Management",
+    "Rating":3,
+    "Field":"OPS&TECH",
+    "ISSN":"1523-4614"
+  },
+  {
+    "Title":"Journal of Manufacturing Technology Management",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"1741-038X"
+  },
+  {
+    "Title":"International Journal of Productivity and Performance Management",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"1741-0401"
+  },
+  {
+    "Title":"International Journal of Agile Systems and Management",
+    "Rating":1,
+    "Field":"OPS&TECH",
+    "ISSN":"1741-9174"
+  },
+  {
+    "Title":"Project Management Journal",
+    "Rating":2,
+    "Field":"OPS&TECH",
+    "ISSN":"8756-9728"
+  },
+  {
+    "Title":"Decision Sciences",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0011-7315"
+  },
+  {
+    "Title":"Journal of Applied Probability",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0021-9002"
+  },
+  {
+    "Title":"Journal of Optimization Theory and Applications",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"0022-3239"
+  },
+  {
+    "Title":"Management Science *",
+    "Rating":4,
+    "Field":"OR&MANSCI",
+    "ISSN":"0025-1909"
+  },
+  {
+    "Title":"Mathematical Programming",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0025-5610"
+  },
+  {
+    "Title":"Operations Research *",
+    "Rating":4,
+    "Field":"OR&MANSCI",
+    "ISSN":"0030-364X"
+  },
+  {
+    "Title":"Journal of the Royal Statistical Society Series C (Applied Statistics)",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"0035-9254"
+  },
+  {
+    "Title":"Science",
+    "Rating":1,
+    "Field":"OR&MANSCI",
+    "ISSN":"0036-8075"
+  },
+  {
+    "Title":"Theory and Decision",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"0040-5833"
+  },
+  {
+    "Title":"Interfaces",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"0092-2102"
+  },
+  {
+    "Title":"Journal of the Operational Research Society",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0160-5682"
+  },
+  {
+    "Title":"Journal of the American Statistical Association",
+    "Rating":4,
+    "Field":"OR&MANSCI",
+    "ISSN":"0162-1459"
+  },
+  {
+    "Title":"Operations Research Letters",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"0167-6377"
+  },
+  {
+    "Title":"Systemica",
+    "Rating":1,
+    "Field":"OR&MANSCI",
+    "ISSN":"0167-9961"
+  },
+  {
+    "Title":"International Journal of Forecasting",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0169-2070"
+  },
+  {
+    "Title":"OR Spectrum",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0171-6468"
+  },
+  {
+    "Title":"Annals of Operations Research",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"0254-5330"
+  },
+  {
+    "Title":"Journal of Applied Statistics",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"0266-4763"
+  },
+  {
+    "Title":"Journal of Forecasting",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0277-6693"
+  },
+  {
+    "Title":"Omega: The International Journal of Management Science",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0305-0483"
+  },
+  {
+    "Title":"Computers and Operations Research",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"0305-0548"
+  },
+  {
+    "Title":"Mathematics of Operations Research",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0364-765X"
+  },
+  {
+    "Title":"European Journal of Operational Research",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0377-2217"
+  },
+  {
+    "Title":"System Dynamics Review",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"0883-7066"
+  },
+  {
+    "Title":"Naval Research Logistics",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0894-069X"
+  },
+  {
+    "Title":"Group Decision and Negotiation",
+    "Rating":3,
+    "Field":"OR&MANSCI",
+    "ISSN":"0926-2644"
+  },
+  {
+    "Title":"OR Insight",
+    "Rating":1,
+    "Field":"OR&MANSCI",
+    "ISSN":"0953-5543"
+  },
+  {
+    "Title":"International Transactions in Operational Research",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"0969-6016"
+  },
+  {
+    "Title":"IEEE Transactions on Systems, Man and Cybernetics - Part A: Systems and Humans",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"1083-4427"
+  },
+  {
+    "Title":"Systems Research and Behavioral Science",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"1092-7026"
+  },
+  {
+    "Title":"Journal of the Royal Statistical Society Series B (Methodology)",
+    "Rating":4,
+    "Field":"OR&MANSCI",
+    "ISSN":"1369-7412"
+  },
+  {
+    "Title":"Journal of Combinatorial Optimization",
+    "Rating":1,
+    "Field":"OR&MANSCI",
+    "ISSN":"1382-6905"
+  },
+  {
+    "Title":"IMA Journal of Management Mathematics",
+    "Rating":2,
+    "Field":"OR&MANSCI",
+    "ISSN":"1471-678X"
+  },
+  {
+    "Title":"Human Relations",
+    "Rating":4,
+    "Field":"ORG STUD",
+    "ISSN":"0018-7267"
+  },
+  {
+    "Title":"Organizational Dynamics",
+    "Rating":3,
+    "Field":"ORG STUD",
+    "ISSN":"0090-2616"
+  },
+  {
+    "Title":"Leadership and Organizational Development",
+    "Rating":1,
+    "Field":"ORG STUD",
+    "ISSN":"0143-7739"
+  },
+  {
+    "Title":"Journal of Organizational Behavior Management",
+    "Rating":2,
+    "Field":"ORG STUD",
+    "ISSN":"0160-8061"
+  },
+  {
+    "Title":"Organization Studies",
+    "Rating":4,
+    "Field":"ORG STUD",
+    "ISSN":"0170-8406"
+  },
+  {
+    "Title":"Research in Organizational Behavior",
+    "Rating":3,
+    "Field":"ORG STUD",
+    "ISSN":"0191-3085"
+  },
+  {
+    "Title":"Negotiation Journal",
+    "Rating":2,
+    "Field":"ORG STUD",
+    "ISSN":"0748-4526"
+  },
+  {
+    "Title":"Management Communication Quarterly",
+    "Rating":2,
+    "Field":"ORG STUD",
+    "ISSN":"0893-3189"
+  },
+  {
+    "Title":"Journal of Organizational Change Management",
+    "Rating":2,
+    "Field":"ORG STUD",
+    "ISSN":"0953-4814"
+  },
+  {
+    "Title":"Learning Organization",
+    "Rating":1,
+    "Field":"ORG STUD",
+    "ISSN":"0969-6474"
+  },
+  {
+    "Title":"Organization Science *",
+    "Rating":4,
+    "Field":"ORG STUD",
+    "ISSN":"1047-7039"
+  },
+  {
+    "Title":"Leadership Quarterly",
+    "Rating":4,
+    "Field":"ORG STUD",
+    "ISSN":"1048-9843"
+  },
+  {
+    "Title":"Group and Organization Management",
+    "Rating":3,
+    "Field":"ORG STUD",
+    "ISSN":"1059-6011"
+  },
+  {
+    "Title":"Organization and Environment",
+    "Rating":2,
+    "Field":"ORG STUD",
+    "ISSN":"1086-0266"
+  },
+  {
+    "Title":"Group Dynamics: Theory, Research and Practice",
+    "Rating":2,
+    "Field":"ORG STUD",
+    "ISSN":"1089-2699"
+  },
+  {
+    "Title":"Organizational Research Methods",
+    "Rating":3,
+    "Field":"ORG STUD",
+    "ISSN":"1094-4281"
+  },
+  {
+    "Title":"Systemic Practice and Action Research",
+    "Rating":2,
+    "Field":"ORG STUD",
+    "ISSN":"1094-429X"
+  },
+  {
+    "Title":"Organization",
+    "Rating":3,
+    "Field":"ORG STUD",
+    "ISSN":"1350-5084"
+  },
+  {
+    "Title":"Journal of Knowledge Management",
+    "Rating":2,
+    "Field":"ORG STUD",
+    "ISSN":"1367-3270"
+  },
+  {
+    "Title":"Group Processes and Intergroup Relations",
+    "Rating":2,
+    "Field":"ORG STUD",
+    "ISSN":"1368-4302"
+  },
+  {
+    "Title":"Ephemera: Critical Dialogues on Organization",
+    "Rating":1,
+    "Field":"ORG STUD",
+    "ISSN":"1473-2866"
+  },
+  {
+    "Title":"Organisational and Social Dynamics",
+    "Rating":1,
+    "Field":"ORG STUD",
+    "ISSN":"1474-2780"
+  },
+  {
+    "Title":"Culture and Organization",
+    "Rating":2,
+    "Field":"ORG STUD",
+    "ISSN":"1475-9551"
+  },
+  {
+    "Title":"Action Research",
+    "Rating":1,
+    "Field":"ORG STUD",
+    "ISSN":"1476-7503"
+  },
+  {
+    "Title":"Emergence: Journal in Complexity Management",
+    "Rating":1,
+    "Field":"ORG STUD",
+    "ISSN":"1521-3250"
+  },
+  {
+    "Title":"Tamara: Journal of Critical Postmodern Organization Science",
+    "Rating":1,
+    "Field":"ORG STUD",
+    "ISSN":"1532-5555"
+  },
+  {
+    "Title":"Journal of Applied Behavioral Science",
+    "Rating":1,
+    "Field":"ORG STUD",
+    "ISSN":"1552-6879"
+  },
+  {
+    "Title":"Leadership",
+    "Rating":1,
+    "Field":"ORG STUD",
+    "ISSN":"1742-7150"
+  },
+  {
+    "Title":"Qualitative Research in Organizations and Management",
+    "Rating":1,
+    "Field":"ORG STUD",
+    "ISSN":"1746-5648"
+  },
+  {
+    "Title":"Journal of Vocational Behavior",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0001-8791"
+  },
+  {
+    "Title":"British Journal of Psychology",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"0007-1269"
+  },
+  {
+    "Title":"Ergonomics",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"0014-0139"
+  },
+  {
+    "Title":"Human Factors: Journal of Human Factors and Ergonomics Society",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"0018-7208"
+  },
+  {
+    "Title":"Journal of Applied Psychology",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0021-9010"
+  },
+  {
+    "Title":"Journal of Applied Social Psychology",
+    "Rating":2,
+    "Field":"PSYCH",
+    "ISSN":"0021-9029"
+  },
+  {
+    "Title":"Journal of Experimental Social Psychology",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0022-1031"
+  },
+  {
+    "Title":"Journal of Personality and Social Psychology",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0022-3514"
+  },
+  {
+    "Title":"Personnel Psychology",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0031-5826"
+  },
+  {
+    "Title":"Psychological Bulletin",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0033-2909"
+  },
+  {
+    "Title":"Psychological Review",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0033-295X"
+  },
+  {
+    "Title":"European Journal of Social Psychology",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"0046-2772"
+  },
+  {
+    "Title":"Annual Review of Psychology",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0066-4308"
+  },
+  {
+    "Title":"British Journal of Social Psychology",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"0144-6665"
+  },
+  {
+    "Title":"Personality and Social Psychology Bulletin",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0146-1672"
+  },
+  {
+    "Title":"Journal of Economic Psychology",
+    "Rating":2,
+    "Field":"PSYCH",
+    "ISSN":"0167-4870"
+  },
+  {
+    "Title":"Personality and Individual Differences",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"0191-8869"
+  },
+  {
+    "Title":"Work and Stress",
+    "Rating":2,
+    "Field":"PSYCH",
+    "ISSN":"0267-8373"
+  },
+  {
+    "Title":"Journal of Managerial Psychology",
+    "Rating":1,
+    "Field":"PSYCH",
+    "ISSN":"0268-3946"
+  },
+  {
+    "Title":"Applied Psychology: An International Review",
+    "Rating":2,
+    "Field":"PSYCH",
+    "ISSN":"0269-994X"
+  },
+  {
+    "Title":"Organizational Behavior and Human Decision Processes",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0749-5978"
+  },
+  {
+    "Title":"International Review of Industrial and Organizational Psychology",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"0886-1528"
+  },
+  {
+    "Title":"Applied Cognitive Psychology",
+    "Rating":2,
+    "Field":"PSYCH",
+    "ISSN":"0888-4080"
+  },
+  {
+    "Title":"Journal of Business and Psychology",
+    "Rating":2,
+    "Field":"PSYCH",
+    "ISSN":"0889-3268"
+  },
+  {
+    "Title":"Journal of Behavioral Decision Making",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"0894-3257"
+  },
+  {
+    "Title":"Journal of Organizational Behavior",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0894-3796"
+  },
+  {
+    "Title":"Human Performance",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"0895-9285"
+  },
+  {
+    "Title":"Psychological Science",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0956-7976"
+  },
+  {
+    "Title":"Journal of Occupational and Organizational Psychology",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"0963-1798"
+  },
+  {
+    "Title":"International Journal of Selection and Assessment",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"0965-075X"
+  },
+  {
+    "Title":"Small Group Research",
+    "Rating":2,
+    "Field":"PSYCH",
+    "ISSN":"1046-4964"
+  },
+  {
+    "Title":"Journal of Consumer Psychology",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"1057-7408"
+  },
+  {
+    "Title":"Journal of Constructivist Psychology",
+    "Rating":2,
+    "Field":"PSYCH",
+    "ISSN":"1072-0537"
+  },
+  {
+    "Title":"International Journal of Stress Management",
+    "Rating":1,
+    "Field":"PSYCH",
+    "ISSN":"1072-5245"
+  },
+  {
+    "Title":"Journal of Experimental Psychology: Applied",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"1076-898X"
+  },
+  {
+    "Title":"Journal of Occupational Health Psychology",
+    "Rating":3,
+    "Field":"PSYCH",
+    "ISSN":"1076-8998"
+  },
+  {
+    "Title":"European Journal of Work and Organizational Psychology",
+    "Rating":2,
+    "Field":"PSYCH",
+    "ISSN":"1359-432X"
+  },
+  {
+    "Title":"Quarterly Journal of Experimental Psychology",
+    "Rating":4,
+    "Field":"PSYCH",
+    "ISSN":"1747-0218"
+  },
+  {
+    "Title":"Community Development Journal",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"0010-3802"
+  },
+  {
+    "Title":"Public Administration: An International Quarterly",
+    "Rating":3,
+    "Field":"PUB SEC",
+    "ISSN":"0033-3298"
+  },
+  {
+    "Title":"Public Administration Review",
+    "Rating":4,
+    "Field":"PUB SEC",
+    "ISSN":"0033-3352"
+  },
+  {
+    "Title":"Journal of Social Policy",
+    "Rating":3,
+    "Field":"PUB SEC",
+    "ISSN":"0047-2794"
+  },
+  {
+    "Title":"Administration and Society",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"0095-3997"
+  },
+  {
+    "Title":"Policy Studies",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"0144-2872"
+  },
+  {
+    "Title":"Social Policy and Administration",
+    "Rating":3,
+    "Field":"PUB SEC",
+    "ISSN":"0144-5596"
+  },
+  {
+    "Title":"Journal of Policy Modelling",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"0161-8938"
+  },
+  {
+    "Title":"Critical Social Policy",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"0261-0183"
+  },
+  {
+    "Title":"Environment and Planning C: Government and Policy",
+    "Rating":3,
+    "Field":"PUB SEC",
+    "ISSN":"0263-774X"
+  },
+  {
+    "Title":"Public Administration and Development",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"0271-2075"
+  },
+  {
+    "Title":"Local Government Studies",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"0300-3930"
+  },
+  {
+    "Title":"Policy and Politics",
+    "Rating":3,
+    "Field":"PUB SEC",
+    "ISSN":"0305-5736"
+  },
+  {
+    "Title":"Journal of Advanced Nursing",
+    "Rating":1,
+    "Field":"PUB SEC",
+    "ISSN":"0309-2402"
+  },
+  {
+    "Title":"Journal of Public Policy and Marketing",
+    "Rating":3,
+    "Field":"PUB SEC",
+    "ISSN":"0743-9156"
+  },
+  {
+    "Title":"Milbank Quarterly",
+    "Rating":4,
+    "Field":"PUB SEC",
+    "ISSN":"0887-378X"
+  },
+  {
+    "Title":"International Journal of Educational Management",
+    "Rating":1,
+    "Field":"PUB SEC",
+    "ISSN":"0951-354X"
+  },
+  {
+    "Title":"International Journal of Public Sector Management",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"0951-3558"
+  },
+  {
+    "Title":"Health Services Management Research",
+    "Rating":1,
+    "Field":"PUB SEC",
+    "ISSN":"0951-4848"
+  },
+  {
+    "Title":"Public Policy and Administration",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"0952-0767"
+  },
+  {
+    "Title":"International Journal of Health Care Quality Assurance",
+    "Rating":1,
+    "Field":"PUB SEC",
+    "ISSN":"0952-6862"
+  },
+  {
+    "Title":"Public Money and Management",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"0954-0962"
+  },
+  {
+    "Title":"Journal of European Social Policy",
+    "Rating":3,
+    "Field":"PUB SEC",
+    "ISSN":"0958-9287"
+  },
+  {
+    "Title":"Journal of Public Administration: Research and Theory",
+    "Rating":4,
+    "Field":"PUB SEC",
+    "ISSN":"1053-1858"
+  },
+  {
+    "Title":"Journal of European Public Policy",
+    "Rating":3,
+    "Field":"PUB SEC",
+    "ISSN":"1350-1763"
+  },
+  {
+    "Title":"Journal of Health Services Research and Policy",
+    "Rating":1,
+    "Field":"PUB SEC",
+    "ISSN":"1355-8190"
+  },
+  {
+    "Title":"Policing: An International Journal of Police Strategies and Management",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"1363-951X"
+  },
+  {
+    "Title":"Health Care Management Science",
+    "Rating":1,
+    "Field":"PUB SEC",
+    "ISSN":"1386-9620"
+  },
+  {
+    "Title":"Public Management Review",
+    "Rating":2,
+    "Field":"PUB SEC",
+    "ISSN":"1471-9037"
+  },
+  {
+    "Title":"Journal of Public Affairs",
+    "Rating":1,
+    "Field":"PUB SEC",
+    "ISSN":"1472-3891"
+  },
+  {
+    "Title":"Journal of Health, Organisation and Management",
+    "Rating":1,
+    "Field":"PUB SEC",
+    "ISSN":"1477-7266"
+  },
+  {
+    "Title":"  International Journal of Healthcare Technology and Management",
+    "Rating":1,
+    "Field":"PUB SEC",
+    "ISSN":"1741-5144"
+  },
+  {
+    "Title":"British Food Journal",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"0007-070X"
+  },
+  {
+    "Title":"Journal of Transport Economics and Policy",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0022-5258"
+  },
+  {
+    "Title":"Metroeconomica",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"0026-1386"
+  },
+  {
+    "Title":"Journal of Textile Institute",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"0040-5000"
+  },
+  {
+    "Title":"Town Planning Review",
+    "Rating":3,
+    "Field":"SECTOR",
+    "ISSN":"0041-0020"
+  },
+  {
+    "Title":"Transportation Science",
+    "Rating":3,
+    "Field":"SECTOR",
+    "ISSN":"0041-1655"
+  },
+  {
+    "Title":"Transportation",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0049-4488"
+  },
+  {
+    "Title":"Transport Reviews",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0144-1647"
+  },
+  {
+    "Title":"Construction Management and Economics",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0144-6193"
+  },
+  {
+    "Title":"Transportation Research Part B: Methodological",
+    "Rating":4,
+    "Field":"SECTOR",
+    "ISSN":"0191-2615"
+  },
+  {
+    "Title":"Energy Journal",
+    "Rating":3,
+    "Field":"SECTOR",
+    "ISSN":"0195-6574"
+  },
+  {
+    "Title":"Museum Management and Curatorship",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0260-4779"
+  },
+  {
+    "Title":"Service Industries Journal",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0264-2069"
+  },
+  {
+    "Title":"Energy Policy",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0301-4215"
+  },
+  {
+    "Title":"Journal of Environmental Management",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0301-4797"
+  },
+  {
+    "Title":"Food Policy",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0306-9192"
+  },
+  {
+    "Title":"Telecommunications Policy",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0308-5961"
+  },
+  {
+    "Title":"Marine Policy",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0308-597X"
+  },
+  {
+    "Title":"Environmental Management",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"0364-152X"
+  },
+  {
+    "Title":"Marine Resource Economics",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"0738-1360"
+  },
+  {
+    "Title":"Journal of Management in Engineering",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0742-597X"
+  },
+  {
+    "Title":"Journal of Sport Management",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0888-4773"
+  },
+  {
+    "Title":"Non-Profit and Voluntary Sector Quarterly",
+    "Rating":3,
+    "Field":"SECTOR",
+    "ISSN":"0899-7640"
+  },
+  {
+    "Title":"Utilities Policy",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"0957-1787"
+  },
+  {
+    "Title":"Voluntas: International Journal of Voluntary and Non-Profit Organization",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0957-8765"
+  },
+  {
+    "Title":"Journal of Property Research",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"0959-9916"
+  },
+  {
+    "Title":"European Environment",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"0961-0405"
+  },
+  {
+    "Title":"Building Research and Information",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"0961-3218"
+  },
+  {
+    "Title":"Transportation Research Part A: Policy and Practice",
+    "Rating":3,
+    "Field":"SECTOR",
+    "ISSN":"0965-8564"
+  },
+  {
+    "Title":"Journal of Transport Geography",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0966-6923"
+  },
+  {
+    "Title":"Transport Policy",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"0967-070X"
+  },
+  {
+    "Title":"Engineering, Construction and Architectural Management",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"0969-998X"
+  },
+  {
+    "Title":"Non-Profit Management and Leadership",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"1048-6682"
+  },
+  {
+    "Title":"Journal of Service Research",
+    "Rating":3,
+    "Field":"SECTOR",
+    "ISSN":"1094-6705"
+  },
+  {
+    "Title":"Transportation Research Part D: Transport and Environment",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"1361-9209"
+  },
+  {
+    "Title":"Transportation Research Part E: Logistics and Transportation Review",
+    "Rating":3,
+    "Field":"SECTOR",
+    "ISSN":"1366-5545"
+  },
+  {
+    "Title":"British Medical Journal",
+    "Rating":1,
+    "Field":"SECTOR",
+    "ISSN":"1468-5833"
+  },
+  {
+    "Title":"Journal of Service Management (formerly IJSIM)",
+    "Rating":2,
+    "Field":"SECTOR",
+    "ISSN":"1757-5818"
+  },
+  {
+    "Title":"American Journal of Economics and Sociology",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0002-9246"
+  },
+  {
+    "Title":"American Journal of Sociology",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0002-9602"
+  },
+  {
+    "Title":"American Sociological Review",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0003-1224"
+  },
+  {
+    "Title":"British Journal of Sociology",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0007-1315"
+  },
+  {
+    "Title":"Economic Geography",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0013-0095"
+  },
+  {
+    "Title":"Economic History Review",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0013-0117"
+  },
+  {
+    "Title":"Explorations in Economic History",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0014-4983"
+  },
+  {
+    "Title":"Futures",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0016-3287"
+  },
+  {
+    "Title":"Human Organization",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0018-7259"
+  },
+  {
+    "Title":"Journal of Development Studies",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0022-0388"
+  },
+  {
+    "Title":"Journal of Economic History",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0022-0507"
+  },
+  {
+    "Title":"Journal of Law and Economics",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0022-2186"
+  },
+  {
+    "Title":"Journal of Regional Science",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0022-4146"
+  },
+  {
+    "Title":"Parliamentary Affairs",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0031-2290"
+  },
+  {
+    "Title":"Political Quarterly",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0032-3179"
+  },
+  {
+    "Title":"Political Studies",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0032-3217"
+  },
+  {
+    "Title":"Regional Studies",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0034-3404"
+  },
+  {
+    "Title":"Review of Social Economy",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0034-6764"
+  },
+  {
+    "Title":"Sociological Review",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0038-0261"
+  },
+  {
+    "Title":"Sociology",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0038-0385"
+  },
+  {
+    "Title":"Technological Forecasting and Social Change",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0040-1625"
+  },
+  {
+    "Title":"Urban Studies",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0042-0980"
+  },
+  {
+    "Title":"Research Policy",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0048-7333"
+  },
+  {
+    "Title":"Sociological Methodology",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0081-1750"
+  },
+  {
+    "Title":"Sociology of Health and Illness",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0141-9889"
+  },
+  {
+    "Title":"International Journal of Sociology and Social Policy",
+    "Rating":1,
+    "Field":"SOC SCI",
+    "ISSN":"0144-333X"
+  },
+  {
+    "Title":"Regional Science and Urban Economics",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0166-0462"
+  },
+  {
+    "Title":"Theory Culture and Society",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0263-2764"
+  },
+  {
+    "Title":"Environment and Planning D: Society and Space",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0263-7758"
+  },
+  {
+    "Title":"Local Economy",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0269-0942"
+  },
+  {
+    "Title":"Risk Analysis: An International Journal",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0272-4332"
+  },
+  {
+    "Title":"Social Science and Medicine",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0277-9536"
+  },
+  {
+    "Title":"Science and Public Policy",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0302-3427"
+  },
+  {
+    "Title":"World Development",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0305-750X"
+  },
+  {
+    "Title":"Economy and Society",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0308-5147"
+  },
+  {
+    "Title":"Environment and Planning A",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0308-518X"
+  },
+  {
+    "Title":"International Journal of Urban and Regional Research",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0309-1317"
+  },
+  {
+    "Title":"Capital and Class",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0309-8168"
+  },
+  {
+    "Title":"Annual Review of Sociology",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"0360-0572"
+  },
+  {
+    "Title":"Journal of European Economic History",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0391-5115"
+  },
+  {
+    "Title":"Annals of Regional Science",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0570-1864"
+  },
+  {
+    "Title":"Research in the Sociology of Organizations",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0733-558X"
+  },
+  {
+    "Title":"Journal of Rural Studies",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0743-0167"
+  },
+  {
+    "Title":"Prometheus",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0810-9028"
+  },
+  {
+    "Title":"Research Evaluation",
+    "Rating":1,
+    "Field":"SOC SCI",
+    "ISSN":"0958-2029"
+  },
+  {
+    "Title":"Industrial and Corporate Change",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0960-6491"
+  },
+  {
+    "Title":"Time and Society",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0961-463X"
+  },
+  {
+    "Title":"Journal of the Royal Statistical Society Series A (Statistics in Society)",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0964-1998"
+  },
+  {
+    "Title":"European Planning Studies",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"0965-4313"
+  },
+  {
+    "Title":"Review of International Political Economy",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0969-2290"
+  },
+  {
+    "Title":"European Urban and Regional Studies",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"0969-7764"
+  },
+  {
+    "Title":"Journal of Industrial Ecology",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"1088-1980"
+  },
+  {
+    "Title":"International Journal of Sociology of Law",
+    "Rating":1,
+    "Field":"SOC SCI",
+    "ISSN":"1095-9262"
+  },
+  {
+    "Title":"Feminist Economics",
+    "Rating":3,
+    "Field":"SOC SCI",
+    "ISSN":"1354-5701"
+  },
+  {
+    "Title":"New Political Economy",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"1356-3467"
+  },
+  {
+    "Title":"Evaluation",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"1356-3890"
+  },
+  {
+    "Title":"Journal of Risk Research",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"1366-9877"
+  },
+  {
+    "Title":"Information, Communication and Society",
+    "Rating":1,
+    "Field":"SOC SCI",
+    "ISSN":"1369-118X"
+  },
+  {
+    "Title":"Journal of Economic Geography",
+    "Rating":4,
+    "Field":"SOC SCI",
+    "ISSN":"1468-2702"
+  },
+  {
+    "Title":"Socio-Economic Review",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"1475-1461"
+  },
+  {
+    "Title":"Society and Business Review",
+    "Rating":2,
+    "Field":"SOC SCI",
+    "ISSN":"1746-5680"
+  },
+  {
+    "Title":"Long Range Planning",
+    "Rating":3,
+    "Field":"STRAT",
+    "ISSN":"0024-6301"
+  },
+  {
+    "Title":"Strategic Management Journal",
+    "Rating":4,
+    "Field":"STRAT",
+    "ISSN":"0143-2095"
+  },
+  {
+    "Title":"Advances in Strategic Management",
+    "Rating":3,
+    "Field":"STRAT",
+    "ISSN":"0742-3322"
+  },
+  {
+    "Title":"Technology Analysis and Strategic Management",
+    "Rating":2,
+    "Field":"STRAT",
+    "ISSN":"0953-7325"
+  },
+  {
+    "Title":"Business Strategy Review",
+    "Rating":1,
+    "Field":"STRAT",
+    "ISSN":"0955-6419"
+  },
+  {
+    "Title":"Business Strategy and the Environment",
+    "Rating":2,
+    "Field":"STRAT",
+    "ISSN":"0964-4733"
+  },
+  {
+    "Title":"Journal of Economics and Management Strategy",
+    "Rating":3,
+    "Field":"STRAT",
+    "ISSN":"1058-6407"
+  },
+  {
+    "Title":"Strategic Change",
+    "Rating":2,
+    "Field":"STRAT",
+    "ISSN":"1086-1718"
+  },
+  {
+    "Title":"Foresight",
+    "Rating":1,
+    "Field":"STRAT",
+    "ISSN":"1463-6689"
+  },
+  {
+    "Title":"Journal of Change Management",
+    "Rating":1,
+    "Field":"STRAT",
+    "ISSN":"1469-7017"
+  },
+  {
+    "Title":"Strategic Organization",
+    "Rating":2,
+    "Field":"STRAT",
+    "ISSN":"1476-1270"
+  },
+  {
+    "Title":"Cornell Hotel and Restaurant Administration Quarterly",
+    "Rating":1,
+    "Field":"TOUR-HOSP",
+    "ISSN":"0010-8804"
+  },
+  {
+    "Title":"Journal of Travel Research",
+    "Rating":3,
+    "Field":"TOUR-HOSP",
+    "ISSN":"0047-2875"
+  },
+  {
+    "Title":"Annals of Tourism Research",
+    "Rating":4,
+    "Field":"TOUR-HOSP",
+    "ISSN":"0160-7383"
+  },
+  {
+    "Title":"Tourism Recreation Research",
+    "Rating":1,
+    "Field":"TOUR-HOSP",
+    "ISSN":"0250-8281"
+  },
+  {
+    "Title":"Leisure Studies",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"0261-4367"
+  },
+  {
+    "Title":"Tourism Management",
+    "Rating":4,
+    "Field":"TOUR-HOSP",
+    "ISSN":"0261-5177"
+  },
+  {
+    "Title":"Facilities",
+    "Rating":1,
+    "Field":"TOUR-HOSP",
+    "ISSN":"0263-2772"
+  },
+  {
+    "Title":"International Journal of Hospitality Management",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"0278-4319"
+  },
+  {
+    "Title":"International Journal of Contemporary Hospitality Management",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"0959-6119"
+  },
+  {
+    "Title":"Journal of Sustainable Tourism",
+    "Rating":1,
+    "Field":"TOUR-HOSP",
+    "ISSN":"0966-9582"
+  },
+  {
+    "Title":"Journal of Travel and Tourism Marketing",
+    "Rating":1,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1054-8408"
+  },
+  {
+    "Title":"Tourism Analysis",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1083-5423"
+  },
+  {
+    "Title":"Journal of Hospitality and Tourism Research",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1096-3480"
+  },
+  {
+    "Title":"International Journal of Tourism Research",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1099-2340"
+  },
+  {
+    "Title":"International Journal of Heritage Studies",
+    "Rating":1,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1352-7258"
+  },
+  {
+    "Title":"Tourism Economics",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1354-8166"
+  },
+  {
+    "Title":"Journal of Vacation Marketing",
+    "Rating":1,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1356-7667"
+  },
+  {
+    "Title":"Managing Leisure: An International Journal",
+    "Rating":1,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1360-6719"
+  },
+  {
+    "Title":"Current Issues in Tourism",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1368-3500"
+  },
+  {
+    "Title":"Journal of Hospitality and Tourism Management",
+    "Rating":1,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1447-6770"
+  },
+  {
+    "Title":"Tourism Geographies",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1461-6688"
+  },
+  {
+    "Title":"Tourist Studies",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1468-7976"
+  },
+  {
+    "Title":"Journal of Hospitality, Leisure, Sport and Tourism Education",
+    "Rating":1,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1473-8376"
+  },
+  {
+    "Title":"Tourism and Hospitality: Planning and Development",
+    "Rating":2,
+    "Field":"TOUR-HOSP",
+    "ISSN":"1479-053X"
+  }
+]
